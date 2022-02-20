@@ -18,7 +18,7 @@ lvgldemo_v4_swap_color.rar
 * csky port  
 csky_v2_success.tar.gz  
 
-* mangopi mq / sipeed LicheeRV Dock, Allwinners D1 / D1s / F133-A port  
+* Mangopi MQ or Sipeed LicheeRV Dock, Allwinner D1 / D1s / F133-A port  
 https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s  
 lvgl_demo_v5.tar.gz  
 
