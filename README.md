@@ -22,6 +22,9 @@ csky_v2_success.tar.gz
 https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s  
 lvgl_demo_v5.tar.gz  
 
+* Mangopi MQ-Dual, Allwinner T113-S3  
+lv_port_linux_frame_buffer_t113_v1.tar.gz  
+
 * ssd202d 7inch    
 lv_port_linux_frame_buffer_arm_v1.tar.gz  
 
