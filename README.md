@@ -28,6 +28,10 @@ lv_port_linux_frame_buffer_t113_v1.tar.gz
 * ssd202d 7inch    
 lv_port_linux_frame_buffer_arm_v1.tar.gz  
 
+* STM32F429I-DISC1, 240x320, LVGL8      
+STM32Cube_FW_F4_V1.27.0_v6_lvgl_good_stm32f429i_disc1.rar  
+https://github.com/lvgl/lv_port_stm32f429_disco  
+
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
 我似乎找到芒果派MQ的lvgl_demo源代码出处，应该是在这里：《哪吒d1开发板-lvgl7-源码下载-带git仓库》，  
