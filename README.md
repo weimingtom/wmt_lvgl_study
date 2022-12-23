@@ -41,7 +41,7 @@ install esp-idf-tools-setup-offline-4.4.3.exe
 (cd to sdk-8ms-esp32-release-2.1)  
 idf.py set-target esp32s3  
 (copy config\ZX3D50CE02S_USRC_4832\lib*.a->components\xxx\*.a)  
-(copy config\sdkconfig to top)  
+(copy config\ZX3D50CE02S_USRC_4832\sdkconfig to top)  
 (get source.zip from my 8ms online project menu, download source, see https://8ms.xyz/projects/esp32)  
 (unzip source.zip to components\qmsd_ui, remove origin files)  
 idf.py fullclean  
