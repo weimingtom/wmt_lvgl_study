@@ -11,6 +11,11 @@ lvgldemo_711_v1_success.rar
 * WT32-SC01 (ESP32 wrover) port  
 lvgldemo_v3_success_wt32_self_lvgl.rar  
 lvgldemo_v4_swap_color.rar  
+```
+idf version, see esp-idf-4.3_v2_200m.part01.rar  
+wireless-tag-com/8ms-esp32  
+wt32-sc01-8ms-esp32-main.zip  
+```
 
 * Android port  
 (NOT DONE) search baidupan, lvgldemo_android_v2.rar  
