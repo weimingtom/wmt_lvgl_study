@@ -32,6 +32,22 @@ lv_port_linux_frame_buffer_arm_v1.tar.gz
 STM32Cube_FW_F4_V1.27.0_v6_lvgl_good_stm32f429i_disc1.rar  
 https://github.com/lvgl/lv_port_stm32f429_disco  
 
+* (TODO) ZX3D50CE02S_USRC_4832  
+sdk-8ms-esp32-release-2.1_run_ok.rar  
+https://gitee.com/qiming-zhixian/sdk-8ms-esp32/tree/release%2F2.1/  
+please use 2.1, not 2.2, adapting to the version in https://8ms.xyz/projects/esp32  
+install esp-idf-tools-setup-offline-4.4.3.exe  
+```
+idf.py set-target esp32s3  
+(copy config\ZX3D50CE02S_USRC_4832\lib*.a->components\xxx\*.a)  
+(copy config\sdkconfig to top)  
+idf.py fullclean  
+idf.py menuconfig  
+q (or ESC)  
+idf.py build  
+idf.py flash  
+```
+
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
 我似乎找到芒果派MQ的lvgl_demo源代码出处，应该是在这里：《哪吒d1开发板-lvgl7-源码下载-带git仓库》，  
