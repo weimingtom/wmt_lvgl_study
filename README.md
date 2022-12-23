@@ -37,7 +37,7 @@ lv_port_linux_frame_buffer_arm_v1.tar.gz
 STM32Cube_FW_F4_V1.27.0_v6_lvgl_good_stm32f429i_disc1.rar  
 https://github.com/lvgl/lv_port_stm32f429_disco  
 
-* (TODO) ZX3D50CE02S_USRC_4832  
+* (TODO) ZX3D50CE02S_USRC_4832, ESP32-S3 wrover    
 sdk-8ms-esp32-release-2.1_run_ok.rar  
 https://gitee.com/qiming-zhixian/sdk-8ms-esp32/tree/release%2F2.1/  
 please use 2.1, not 2.2, adapting to the version in https://8ms.xyz/projects/esp32  
