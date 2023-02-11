@@ -61,6 +61,9 @@ https://github.com/Skorpi08/WT32-SC01-PLUS
 https://github.com/dudals-jung/WT32-SC01-PLUS-LVGL-IDF  
 https://github.com/WojciechowskiMarek/WT32-SC01-Plus_ESP32-S3_JIngle_Bells  
 
+* d1, nezha    
+lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz  
+
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
 我似乎找到芒果派MQ的lvgl_demo源代码出处，应该是在这里：《哪吒d1开发板-lvgl7-源码下载-带git仓库》，  
