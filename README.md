@@ -67,7 +67,8 @@ lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz
 * 君正MIPS, 青联X2000, 1024 * 600, from ssd202d version, static link (gcc -static)    
 lv_port_linux_frame_buffer_x2000_lvgl_v1.tar.gz  
 ABS_MT_POSITION_X define see https://blog.csdn.net/Chuangke_Andy/article/details/122454299  
-see lv_drivers/indev/evdev.c
+see lv_drivers/indev/evdev.c  
+see https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s  
 ```
 //see include/uapi/linux/input.h
 #ifndef ABS_MT_POSITION_X
