@@ -64,6 +64,21 @@ https://github.com/WojciechowskiMarek/WT32-SC01-Plus_ESP32-S3_JIngle_Bells
 * d1, nezha    
 lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz  
 
+* 君正MIPS, 青联X2000, 1024 * 600, from ssd202d version, static link (gcc -static)    
+lv_port_linux_frame_buffer_x2000_lvgl_v1.tar.gz  
+ABS_MT_POSITION_X define see https://blog.csdn.net/Chuangke_Andy/article/details/122454299  
+see lv_drivers/indev/evdev.c
+```
+//see include/uapi/linux/input.h
+#ifndef ABS_MT_POSITION_X
+#define ABS_MT_POSITION_X 0x35
+#endif
+
+#ifndef ABS_MT_POSITION_Y
+#define ABS_MT_POSITION_Y 0x36
+#endif
+```
+
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
 我似乎找到芒果派MQ的lvgl_demo源代码出处，应该是在这里：《哪吒d1开发板-lvgl7-源码下载-带git仓库》，  
