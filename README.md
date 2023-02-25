@@ -80,7 +80,7 @@ see https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s
 #endif
 ```
 
-* f1c200s  
+* f1c200s lcd_test.bin    
 https://github.com/nminaylov/F1C100s_projects  
 https://github.com/nminaylov/F1C100s_LVGL  
 https://github.com/motoedy/minimal_f1c100s_fb_zlggui  
@@ -129,6 +129,11 @@ lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\_tool
 lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\lcd_test\build  
 search baidupan, F1C100s_projects-master_v1.tar.gz  
 ? use DiskGenius401Pro  
+
+* (TODO) 智能虚拟电子研发室, f1c200s  
+search F1C200s_V1_2_1.zip  
+
+
 
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
