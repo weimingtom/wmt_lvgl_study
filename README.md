@@ -103,6 +103,26 @@ go 80000000
 我更想知道能否用类似的方法引导nand flash的代码，  
 如果可以的话就可以解决nand引导问题
 ```
+from-fel-to-dfu, see mpi-r-tools.zip  
+```
+sudo apt install gcc-arm-none-eabi
+
+用PSP格式化FAT文件系统的tf卡，把lcd_test.bin复制到tf卡上
+
+>from-fel-to-dfu.bat
+(ttyS) Ctrl+C
+=> help
+=> fatload mmc 0:1 80000000 lcd_test.bin
+=> go 80000000
+
+sunxi-fel -p spiflash-write 0x000000 simple_loader.bin
+sunxi-fel -p spiflash-write 0x10000 lcd_test.bin
+
+(x) dfu-util -s 0x000000 -D simple_loader.bin
+(x) dfu-util -s 0x010000 -D lcd_test.bin
+```
+search baidupan, F1C100s_projects-master_v1.tar.gz  
+? use DiskGenius401Pro  
 
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
