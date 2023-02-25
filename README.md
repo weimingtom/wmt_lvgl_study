@@ -104,6 +104,10 @@ go 80000000
 如果可以的话就可以解决nand引导问题
 ```
 from-fel-to-dfu, see mpi-r-tools.zip  
+see https://mangopi.org/f1c_flashrom  
+see https://wiki.dfrobot.com.cn/_SKU_DFR0780_MangoPi-R3  
+git clone https://github.com/Icenowy/sunxi-tools.git -b f1c100s-spiflash  
+https://github.com/Icenowy/sunxi-tools/tree/f1c100s-spiflash  
 ```
 sudo apt install gcc-arm-none-eabi
 
