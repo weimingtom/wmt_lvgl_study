@@ -133,7 +133,11 @@ search baidupan, F1C100s_projects-master_v1.tar.gz
 * (TODO) 智能虚拟电子研发室, f1c200s  
 search F1C200s_V1_2_1.zip  
 
+* (TODO) 100ask lvgl doc  
+https://100ask-lvgl-doc.readthedocs.io/zh/latest/  
 
+* (dead) F1C100S_Linux lvgl  
+https://littlevgl.readthedocs.io/en/latest/Doc/03.F1C100S_Linux/F1C100S_Linux.html    
 
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
