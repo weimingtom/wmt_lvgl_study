@@ -136,8 +136,9 @@ search F1C200s_V1_2_1.zip
 * (TODO) 100ask lvgl doc  
 https://100ask-lvgl-doc.readthedocs.io/zh/latest/  
 
-* (dead) F1C100S_Linux lvgl  
-https://littlevgl.readthedocs.io/en/latest/Doc/03.F1C100S_Linux/F1C100S_Linux.html    
+* F1C100S_Linux lvgl  
+(dead) https://littlevgl.readthedocs.io/en/latest/Doc/03.F1C100S_Linux/F1C100S_Linux.html    
+(origin) https://github.com/huanghl365/LittlevGL  
 
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
