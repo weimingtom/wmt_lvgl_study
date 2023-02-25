@@ -60,14 +60,14 @@ idf.py flash
 * https://github.com/dudals-jung/WT32-SC01-PLUS-LVGL-IDF  
 * https://github.com/WojciechowskiMarek/WT32-SC01-Plus_ESP32-S3_JIngle_Bells  
 
-### d1, nezha    
-lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz  
+## d1, nezha    
+* lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz  
 
-### 君正MIPS, 青联X2000, 1024 * 600, from ssd202d version, static link (gcc -static)    
-lv_port_linux_frame_buffer_x2000_lvgl_v1.tar.gz  
-ABS_MT_POSITION_X define see https://blog.csdn.net/Chuangke_Andy/article/details/122454299  
-see lv_drivers/indev/evdev.c  
-see https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s  
+## 君正MIPS, 青联X2000, 1024 * 600, from ssd202d version, static link (gcc -static)    
+* lv_port_linux_frame_buffer_x2000_lvgl_v1.tar.gz  
+* ABS_MT_POSITION_X define see https://blog.csdn.net/Chuangke_Andy/article/details/122454299  
+* see lv_drivers/indev/evdev.c  
+* see https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s  
 ```
 //see include/uapi/linux/input.h
 #ifndef ABS_MT_POSITION_X
@@ -79,10 +79,10 @@ see https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s
 #endif
 ```
 
-### f1c200s lcd_test.bin    
-https://github.com/nminaylov/F1C100s_projects  
-https://github.com/nminaylov/F1C100s_LVGL  
-https://github.com/motoedy/minimal_f1c100s_fb_zlggui  
+## f1c200s lcd_test.bin    
+* https://github.com/nminaylov/F1C100s_projects  
+* https://github.com/nminaylov/F1C100s_LVGL  
+* https://github.com/motoedy/minimal_f1c100s_fb_zlggui  
 ```
 fatload mmc 0:1 80000000 firmware.bin  
 go 80000000  
@@ -102,11 +102,11 @@ go 80000000
 我更想知道能否用类似的方法引导nand flash的代码，  
 如果可以的话就可以解决nand引导问题
 ```
-from-fel-to-dfu, see mpi-r-tools.zip  
-see https://mangopi.org/f1c_flashrom  
-see https://wiki.dfrobot.com.cn/_SKU_DFR0780_MangoPi-R3  
-git clone https://github.com/Icenowy/sunxi-tools.git -b f1c100s-spiflash  
-https://github.com/Icenowy/sunxi-tools/tree/f1c100s-spiflash  
+* from-fel-to-dfu, see mpi-r-tools.zip  
+* see https://mangopi.org/f1c_flashrom  
+* see https://wiki.dfrobot.com.cn/_SKU_DFR0780_MangoPi-R3  
+* git clone https://github.com/Icenowy/sunxi-tools.git -b f1c100s-spiflash  
+* https://github.com/Icenowy/sunxi-tools/tree/f1c100s-spiflash  
 ```
 sudo apt install gcc-arm-none-eabi
 
@@ -124,21 +124,21 @@ sunxi-fel -p spiflash-write 0x10000 lcd_test.bin
 (x) dfu-util -s 0x000000 -D simple_loader.bin
 (x) dfu-util -s 0x010000 -D lcd_test.bin
 ```
-lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\_tools_\mksunxi  
-lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\lcd_test\build  
-search baidupan, F1C100s_projects-master_v1.tar.gz  
-? use DiskGenius401Pro  
+* lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\_tools_\mksunxi  
+* lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\lcd_test\build  
+* search baidupan, F1C100s_projects-master_v1.tar.gz  
+* ? use DiskGenius401Pro  
 
-### (TODO) 智能虚拟电子研发室, f1c200s  
-search F1C200s_V1_2_1.zip  
+## (TODO) 智能虚拟电子研发室, f1c200s  
+* search F1C200s_V1_2_1.zip  
 
-### (TODO) 100ask lvgl doc  
-https://100ask-lvgl-doc.readthedocs.io/zh/latest/  
+## (TODO) 100ask lvgl doc  
+* https://100ask-lvgl-doc.readthedocs.io/zh/latest/  
 
-### F1C100S_Linux lvgl, F1C100S/F1C200S系统构建    
-(origin) https://github.com/huanghl365/LittlevGL  
-(origin) https://github.com/huanghl365/LittlevGL/blob/master/Doc/03.F1C100S_Linux/F1C100S_Linux.md  
-(dead) https://littlevgl.readthedocs.io/en/latest/Doc/03.F1C100S_Linux/F1C100S_Linux.html    
+## F1C100S_Linux lvgl, F1C100S/F1C200S系统构建    
+* (origin) https://github.com/huanghl365/LittlevGL  
+* (origin) https://github.com/huanghl365/LittlevGL/blob/master/Doc/03.F1C100S_Linux/F1C100S_Linux.md  
+* (dead) https://littlevgl.readthedocs.io/en/latest/Doc/03.F1C100S_Linux/F1C100S_Linux.html    
 
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
