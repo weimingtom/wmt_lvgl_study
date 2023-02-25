@@ -80,6 +80,15 @@ see https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s
 #endif
 ```
 
+* f1c200s  
+https://github.com/nminaylov/F1C100s_projects  
+https://github.com/nminaylov/F1C100s_LVGL  
+https://github.com/motoedy/minimal_f1c100s_fb_zlggui  
+```
+fatload mmc 0:1 80000000 firmware.bin  
+go 80000000  
+```
+
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
 我似乎找到芒果派MQ的lvgl_demo源代码出处，应该是在这里：《哪吒d1开发板-lvgl7-源码下载-带git仓库》，  
