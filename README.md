@@ -88,6 +88,21 @@ https://github.com/motoedy/minimal_f1c100s_fb_zlggui
 fatload mmc 0:1 80000000 firmware.bin  
 go 80000000  
 ```
+```
+2021-7-30  
+昨天试了一下，把f1c200s的u-boot的sd卡运行模式跑通了（fatload命令），  
+不过nand flash的引导方法仍然没有头绪。fatload有个几个缺点，  
+是要先保证tf卡是FAT文件系统，这个可能有点坑，因为可能会提示缺分区表  
+（我是拿PSP2000去格式化TF卡），其次，需要先引导到u-boot，  
+这里有个技巧，就是先按住BOOT按钮reset进入FEL，  
+然后通过from-fel-to-dfu.bat进入DFU模式，  
+而其实所谓的DFU模式就是U-BOOT，只不过会卡住等待，  
+这时候在串口控制台按Ctrl+C中断即可回到U-BOOT命令行，  
+然后通过fatload mmc 0:1 80000000 lcd_test.bin
+和go 80000000即可运行（参考nminaylov/F1C100s_projects），  
+我更想知道能否用类似的方法引导nand flash的代码，  
+如果可以的话就可以解决nand引导问题
+```
 
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
