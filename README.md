@@ -125,6 +125,8 @@ sunxi-fel -p spiflash-write 0x10000 lcd_test.bin
 (x) dfu-util -s 0x000000 -D simple_loader.bin
 (x) dfu-util -s 0x010000 -D lcd_test.bin
 ```
+lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\_tools_\mksunxi  
+lcd_test.bin see F1C100s_projects-master_v1.tar.gz\F1C100s_projects-master\lcd_test\build  
 search baidupan, F1C100s_projects-master_v1.tar.gz  
 ? use DiskGenius401Pro  
 
