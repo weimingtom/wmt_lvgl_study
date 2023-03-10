@@ -65,6 +65,12 @@ https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓�
 ## ssd202d 7inch    
 * lv_port_linux_frame_buffer_arm_v1.tar.gz  
 
+## ssd202d lvgl 7.10   
+* https://github.com/caszhao/ssd_lvgl  
+* LVGL7.10-linux_framebuffer-SSD202-TEVET-PACK-20210223.tar  
+* SSD20X直接编译lvgl7.10带双缓（附源码）  
+* https://whycan.com/t_6043.html  
+
 ## STM32F429I-DISC1, 240x320, LVGL8      
 * STM32Cube_FW_F4_V1.27.0_v6_lvgl_good_stm32f429i_disc1.rar  
 * https://github.com/lvgl/lv_port_stm32f429_disco  
