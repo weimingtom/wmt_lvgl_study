@@ -62,10 +62,13 @@ https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓�
 在aw-ol.com的bbs上，有份代码叫lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz，  
 里面有个文件mouse_img.c就是鼠标光标的图片  
 
-## ssd202d 7inch    
+## ssd202d 7inch   
+* search baidupan, lv_port_linux_frame_buffer_arm_v1.tar.gz  
 * for IDO_SBC2D07  
-* lv_port_linux_frame_buffer_arm_v1.tar.gz  
-* 好像是和树莓派的arm-linux-gnueabihf-gcc交叉工具链通用，甚至可以直接把树莓派3b上gcc编译出来的elf搬过来运行  
+* 工具链：gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf.tar.gz  
+http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1cu14t7bq11de  
+好像是和树莓派的arm-linux-gnueabihf-gcc交叉工具链通用，  
+甚至可以直接把树莓派3b上gcc编译出来的elf搬过来运行  
 
 ## ssd202d lvgl 7.10   
 * https://github.com/caszhao/ssd_lvgl  
