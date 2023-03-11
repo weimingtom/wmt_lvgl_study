@@ -64,6 +64,7 @@ https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓�
 
 ## ssd202d 7inch    
 * lv_port_linux_frame_buffer_arm_v1.tar.gz  
+* 好像是和树莓派的arm-linux-gnueabihf-gcc交叉工具链通用，甚至可以直接把树莓派3b上gcc编译出来的elf搬过来运行  
 
 ## ssd202d lvgl 7.10   
 * https://github.com/caszhao/ssd_lvgl  
@@ -74,6 +75,7 @@ https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓�
 ## ido-lvgl8.2  
 * https://github.com/industio/ido-lvgl8.2  
 * http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1duplsnvbelfj  
+* /home/ronnie/work3/ssd201/gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc  
 
 ## STM32F429I-DISC1, 240x320, LVGL8      
 * STM32Cube_FW_F4_V1.27.0_v6_lvgl_good_stm32f429i_disc1.rar  
