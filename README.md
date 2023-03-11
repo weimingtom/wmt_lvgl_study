@@ -1,6 +1,9 @@
 # wmt_lvgl_study
 My LVGL study
 
+## TODO：
+* 请有时间补充一下工具链信息  
+
 ## Windows VS2013 port (with FastFireFrame)    
 * lvgldemo_501_v5_input_pass.rar  
 * lvgldemo_530_v2_run_success.rar  
