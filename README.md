@@ -103,6 +103,7 @@ http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1cu14t7bq11de
 #define ABS_MT_POSITION_Y 0x36
 #endif
 ```
+* 工具链（因为libc对不上，需要-static静态编译）：gcc-4.3-ls232/bin/mipsel-linux-gcc  
 
 ## f1c200s lcd_test.bin    
 * https://github.com/nminaylov/F1C100s_projects  
