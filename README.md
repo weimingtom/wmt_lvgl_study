@@ -72,7 +72,7 @@ https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓�
 * SSD20X直接编译lvgl7.10带双缓（附源码）  
 * https://whycan.com/t_6043.html  
 
-## ido-lvgl8.2  
+## ido-lvgl8.2 （很可能也是7寸屏或转接成7寸屏，看配置是1024x600，不确定）  
 * https://github.com/industio/ido-lvgl8.2  
 * http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1duplsnvbelfj  
 * /home/ronnie/work3/ssd201/gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc  
