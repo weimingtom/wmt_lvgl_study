@@ -63,6 +63,7 @@ https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓�
 里面有个文件mouse_img.c就是鼠标光标的图片  
 
 ## ssd202d 7inch    
+* for IDO_SBC2D07  
 * lv_port_linux_frame_buffer_arm_v1.tar.gz  
 * 好像是和树莓派的arm-linux-gnueabihf-gcc交叉工具链通用，甚至可以直接把树莓派3b上gcc编译出来的elf搬过来运行  
 
@@ -71,8 +72,10 @@ https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓�
 * LVGL7.10-linux_framebuffer-SSD202-TEVET-PACK-20210223.tar  
 * SSD20X直接编译lvgl7.10带双缓（附源码）  
 * https://whycan.com/t_6043.html  
+* for IDO_SBC2D07 ???  
 
-## ssd202d IDO-SBC2D06 (Purple Pi R1 ???), ido-lvgl8.2, 1024x600   
+## ssd202d ido-lvgl8.2, 1024x600   
+* 虽然是用于IDO-SBC2D06 (Purple Pi R1 ???), 但实际上可能也只是for IDO_SBC2D07
 * 很可能也是7寸屏或转接成7寸屏，看配置是1024x600，不确定  
 * https://github.com/industio/ido-lvgl8.2  
 * http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1duplsnvbelfj  
