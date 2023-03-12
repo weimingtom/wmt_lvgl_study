@@ -160,6 +160,11 @@ sunxi-fel -p spiflash-write 0x10000 lcd_test.bin
 
 ## (TODO) 智能虚拟电子研发室, f1c200s  
 * search F1C200s_V1_2_1.zip  
+* F1C200S裸机MDK+LVGL+GT911电容屏（从网上RTX+EMWIN例程上改的有BUG）  
+最近做了一块F1C200S的板子，驱动800x480分辨率的电容屏，  
+好不容易在网上找了一个MDK的RTX+EMWIN例程在这基础上改  
+成无系统+LVGL+GT911电容屏
+https://whycan.com/t_7187.html  
 
 ## F1C100S_Linux lvgl, F1C100S/F1C200S系统构建    
 * (origin) https://github.com/huanghl365/LittlevGL  
