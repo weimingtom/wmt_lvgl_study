@@ -165,6 +165,8 @@ sunxi-fel -p spiflash-write 0x10000 lcd_test.bin
 好不容易在网上找了一个MDK的RTX+EMWIN例程在这基础上改  
 成无系统+LVGL+GT911电容屏
 https://whycan.com/t_7187.html  
+* F1C200S串口屏板  
+https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban  
 
 ## F1C100S_Linux lvgl, F1C100S/F1C200S系统构建    
 * (origin) https://github.com/huanghl365/LittlevGL  
