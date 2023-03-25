@@ -175,3 +175,8 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 
 ## (TODO) 100ask lvgl doc  
 * https://100ask-lvgl-doc.readthedocs.io/zh/latest/  
+
+## 野火-华芯微特 SWM32SRET6, 4.3 inch, 480x272  
+* https://doc.embedfire.com/products/link/zh/latest/mcu/synwit/swm32sret6.html  
+* (IMP) SWM32S开机综合例程.rar  
+* SWM320_Lib-210810.rar  
