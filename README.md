@@ -181,6 +181,12 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * (IMP) SWM32S开机综合例程.rar, lvgl v6.1.2 (?), or ebf_swm32s_code_20230324.zip      
 * SWM320_Lib-210810.rar  
 
+## 华芯微特带屏幕接口的开发板  
+* (has screen interface, SWDM-LQ64-32SRE04, ATK-4342) SWM32SRET6-50-800_480电容触摸液晶屏LCD模块TFTSWDM-LQ64-32SRE_华芯微特  
+* (has screen interface, 19S显示开发板 屏驱-SWXS-LQ48-19SCB02, JLT35002A) SWM19SCBT6-50_LQFP48最小系统板_华芯微特  
+* (no screen interface) SWM320VET7-LQ100-32101最小系统板_华芯微特  
+* (not bought, has screen interface, ATK4342, TFT 4.3) SYNWIT34SVEA3显示开发板 屏驱_华芯微特, SWM34S_demo800×480_HMI030_PC.rar  
+
 ## ESP32 LVGL, esp32-2432s028r, 2.8inch_ESP32-2432S028R, esp32, 240x320, ili9341?    
 * 2.8inch_ESP32-2432S028R.zip  
 * https://qiita.com/sylphy_00/items/77f5b9d5fdba85860d9d  
