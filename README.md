@@ -180,3 +180,10 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://doc.embedfire.com/products/link/zh/latest/mcu/synwit/swm32sret6.html  
 * (IMP) SWM32S开机综合例程.rar, lvgl v6.1.2 (?), or ebf_swm32s_code_20230324.zip      
 * SWM320_Lib-210810.rar  
+
+## ESP32 LVGL, esp32-2432s028r, 2.8inch_ESP32-2432S028R, esp32, 240x320, ili9341?    
+* 2.8inch_ESP32-2432S028R.zip  
+* https://qiita.com/sylphy_00/items/77f5b9d5fdba85860d9d  
+* http://www.jczn1688.com/zlxz  
+
+
