@@ -186,4 +186,6 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://qiita.com/sylphy_00/items/77f5b9d5fdba85860d9d  
 * http://www.jczn1688.com/zlxz  
 
+## TK032F8004 smart_IoT  
+* TK499_LTDC_TK032F8004_LVGL.zip  
 
