@@ -195,3 +195,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## TK032F8004 smart_IoT  
 * TK499_LTDC_TK032F8004_LVGL.zip  
 
+## STM32F429IGTx, 适用于野牛开发板的 LittlevGL 的 demo 程序  
+* 有 MDK 版本和 VS 模拟器版本  
+* https://gitee.com/mzy2364/LittlevGL_Demo  
+* 101.LittleVGL GUI SDK资料, LittlevGL 20201231.rar, 开源GUI LittlevGL应用.pdf  
