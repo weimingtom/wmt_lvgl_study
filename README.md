@@ -3,6 +3,7 @@ My LVGL study
 
 ## TODO：
 * 请有时间补充一下工具链信息  
+* 研究一下https://gitee.com/mFlying/ssd2xx-demo  
 
 ## Windows VS2013 port (with FastFireFrame)    
 * lvgldemo_501_v5_input_pass.rar  
@@ -87,7 +88,7 @@ http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1cu14t7bq11de
 * http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1duplsnvbelfj  
 * /home/ronnie/work3/ssd201/gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc  
 
-## ssd202d demo   
+## (TODO) ssd202d demo   
 * https://gitee.com/mFlying/ssd2xx-demo/tree/master/4.littlevgl  
 
 ## STM32F429I-DISC1, 240x320, LVGL8      
