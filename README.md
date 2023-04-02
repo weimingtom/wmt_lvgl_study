@@ -87,6 +87,9 @@ http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1cu14t7bq11de
 * http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1duplsnvbelfj  
 * /home/ronnie/work3/ssd201/gcc-arm-8.2-2018.08-x86_64-arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc  
 
+## ssd202d demo   
+* https://gitee.com/mFlying/ssd2xx-demo/tree/master/4.littlevgl  
+
 ## STM32F429I-DISC1, 240x320, LVGL8      
 * STM32Cube_FW_F4_V1.27.0_v6_lvgl_good_stm32f429i_disc1.rar  
 * https://github.com/lvgl/lv_port_stm32f429_disco  
