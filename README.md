@@ -206,3 +206,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 
 ## gd32f450  
 * https://gitee.com/tinnu/littlevgl_gd32f450  
+
+## esp32-s2-hmi-devkit-1  
+* https://www.espressif.com.cn/zh-hans/solutions/hmi/esp-hmi  
+* https://github.com/espressif/esp-dev-kits/tree/master/esp32-s2-hmi-devkit-1/examples/get-started/hello_world  
