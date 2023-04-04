@@ -218,4 +218,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://www.ui.cn/detail/50032.html  
 * https://blog.csdn.net/weixin_42413377/article/details/119258212  
 * https://zhuanlan.zhihu.com/p/80828378  
+* https://github.com/projetsdiy/T-Watch-Projects  
+* https://github.com/lixy123/TTGO_T_Watch_Baidu_Rec  
+
 
