@@ -214,3 +214,8 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## ttgo t-watch  
 * https://github.com/sharandac/My-TTGO-Watch  
 * https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
+* https://t-watch.readthedocs.io/zh_CN/latest/index.html  
+* https://www.ui.cn/detail/50032.html  
+* https://blog.csdn.net/weixin_42413377/article/details/119258212  
+* https://zhuanlan.zhihu.com/p/80828378  
+
