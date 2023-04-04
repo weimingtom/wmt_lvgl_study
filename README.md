@@ -210,3 +210,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## esp32-s2-hmi-devkit-1  
 * https://www.espressif.com.cn/zh-hans/solutions/hmi/esp-hmi  
 * https://github.com/espressif/esp-dev-kits/tree/master/esp32-s2-hmi-devkit-1/examples/get-started/hello_world  
+
+## ttgo t-watch  
+* https://github.com/sharandac/My-TTGO-Watch  
+* https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
