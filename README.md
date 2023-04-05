@@ -230,6 +230,12 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## watchy  
 * https://github.com/sqfmi/Watchy  
 
+## PineTime  
+* https://github.com/InfiniTimeOrg/InfiniTime  
+
+## zepp os  
+* https://github.com/zepp-health/zeppos-samples  
+
 
 
 
