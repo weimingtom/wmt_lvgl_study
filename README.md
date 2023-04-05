@@ -221,4 +221,15 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://github.com/projetsdiy/T-Watch-Projects  
 * https://github.com/lixy123/TTGO_T_Watch_Baidu_Rec  
 
+## watchio  
+* https://github.com/eggfly/WatchIO  
+
+## watchx  
+* https://github.com/FASTSHIFT/WatchX  
+
+## watchy  
+* https://github.com/sqfmi/Watchy  
+
+
+
 
