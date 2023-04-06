@@ -243,6 +243,9 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://www.waveshare.net/wiki/RP2040-LCD-1.28  
 * https://github.com/dawigit/picoclock  
 
+## OpenWatch  
+* https://www.eetree.cn/project/detail/152  
+
 ## 桌面天气时钟  
 
 ## arduino 旋转太空人 天气时钟源码来啦 esp8266  
