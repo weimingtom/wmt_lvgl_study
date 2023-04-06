@@ -253,4 +253,6 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 
 ## ESP32墨水屏开发板_4寸_北京物联网开发  
 
+## win10_idd_xfz1986_usb_graphic_driver_display  
+* https://github.com/chuanjinpang/win10_idd_xfz1986_usb_graphic_driver_display  
 
