@@ -245,6 +245,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 
 ## OpenWatch  
 * https://www.eetree.cn/project/detail/152  
+* https://github.com/Open-Smartwatch/open-smartwatch-os  
 
 ## 桌面天气时钟  
 
