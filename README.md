@@ -273,3 +273,6 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * haas-ui-simulator-ubuntu.zip  
 * sudo cnpm i aiot-vue-cli -g   
 
+## Pico-RGB-Matrix-P3-64x32  
+* https://www.waveshare.net/wiki/Pico-RGB-Matrix-P3-64x32  
+
