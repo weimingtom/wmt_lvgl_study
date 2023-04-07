@@ -256,3 +256,6 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## win10_idd_xfz1986_usb_graphic_driver_display  
 * https://github.com/chuanjinpang/win10_idd_xfz1986_usb_graphic_driver_display  
 
+## waft  
+* https://www.yuque.com/waft/docs/pv8ktt  
+* https://chuangke.aliyun.com/waft  
