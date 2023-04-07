@@ -256,7 +256,12 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## win10_idd_xfz1986_usb_graphic_driver_display  
 * https://github.com/chuanjinpang/win10_idd_xfz1986_usb_graphic_driver_display  
 
-## waft  
+## waft (with wasm???)    
 * https://www.yuque.com/waft/docs/pv8ktt  
 * https://chuangke.aliyun.com/waft  
 * https://wiki.sipeed.com/hardware/zh/lichee/RV/86_panel.html  
+
+## haasui, 阿里云智显系列/智显面板ASP-80/AIoT小程序框架引擎/8寸触摸屏  
+* 阿里云智能硬件官方旗舰店  
+* https://www.yuque.com/wcye0k/haasui/lqwximddosvrr4yi  
+* https://www.yuque.com/wcye0k/haasui/lytxwk#ncO5O  
