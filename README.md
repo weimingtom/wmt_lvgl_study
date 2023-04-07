@@ -265,3 +265,10 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * 阿里云智能硬件官方旗舰店  
 * https://www.yuque.com/wcye0k/haasui/lqwximddosvrr4yi  
 * https://www.yuque.com/wcye0k/haasui/lytxwk#ncO5O  
+* haas-ui-simulator-mac-v2.zip  
+* haasui-simulator-windows-64.zip  
+* https://www.yuque.com/wcye0k/haasui/lytxwk#ncO5O  
+* sudo apt-get install libsdl2-dev  
+* haas-ui-simulator-ubuntu.zip  
+* sudo cnpm i aiot-vue-cli -g   
+
