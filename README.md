@@ -276,3 +276,5 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## Pico-RGB-Matrix-P3-64x32  
 * https://www.waveshare.net/wiki/Pico-RGB-Matrix-P3-64x32  
 
+## 1.28inch LCD Module  
+* https://www.waveshare.net/wiki/1.28inch_LCD_Module  
