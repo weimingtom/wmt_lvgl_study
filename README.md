@@ -260,6 +260,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://www.yuque.com/waft/docs/pv8ktt  
 * https://chuangke.aliyun.com/waft  
 * https://wiki.sipeed.com/hardware/zh/lichee/RV/86_panel.html  
+* npm i waft-cli -g  
 
 ## haasui, 阿里云智显系列/智显面板ASP-80/AIoT小程序框架引擎/8寸触摸屏  
 * 阿里云智能硬件官方旗舰店  
