@@ -259,3 +259,4 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## waft  
 * https://www.yuque.com/waft/docs/pv8ktt  
 * https://chuangke.aliyun.com/waft  
+* https://wiki.sipeed.com/hardware/zh/lichee/RV/86_panel.html  
