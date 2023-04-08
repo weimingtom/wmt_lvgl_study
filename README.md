@@ -230,6 +230,9 @@ see also https://github.com/xvno/my-ttgo-watch
 可能有几个，我下面的截图来源于xvno/my-ttgo-watch，  
 实际运行会没有桌面图（黑色），需要自己设置。  
 实际效果和这些截图有不同，但大概的布局是差不多的  
+* display bmp: ips2_0_esp32_ganyu_twatch_2020_v3.rar  
+* display fonts and bmp: ips2_0_esp32_v2_success_twatch_2020_v3.7z  
+* fill with rgb: fillScreen_v1_twatch_2020_v3_success.7z  
 
 ## watchio  
 * https://github.com/eggfly/WatchIO  
