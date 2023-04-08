@@ -213,6 +213,8 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 
 ## ttgo t-watch  
 * https://github.com/sharandac/My-TTGO-Watch  
+This is factory firmware ???  
+see also https://github.com/xvno/my-ttgo-watch  
 * https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
 * https://t-watch.readthedocs.io/zh_CN/latest/index.html  
 * https://t-watch-document-en.readthedocs.io/en/latest/index.html  
