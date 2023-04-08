@@ -288,3 +288,9 @@ see also https://github.com/xvno/my-ttgo-watch
 
 ## 1.28inch LCD Module  
 * https://www.waveshare.net/wiki/1.28inch_LCD_Module  
+
+## T-Wristband  
+* https://github.com/yacubovvs/CubOS  
+* https://github.com/Xinyuan-LilyGO/T-Wristband  
+* https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband/tree/master/examples/T-Wristband-MAX30208  
+* https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52  
