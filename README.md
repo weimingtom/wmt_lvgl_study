@@ -314,7 +314,10 @@ see also https://github.com/xvno/my-ttgo-watch
 * https://github.com/wireless-tag-cn/lv_port_esp32
 
 ## 荔枝派
-* http://nano.lichee.pro/application/littlevgl.html
+* http://nano.lichee.pro/application/littlevgl.html  
+see https://github.com/STRfarfar/sipeed_wiki/blob/master/docs/soft/LicheeOS/Nano-Doc-Backup/application/littlevgl.rst  
+see https://github.com/Lichee-Pi/Nano-Doc-Backup/blob/master/application/littlevgl.rst  
+see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/application/littlevgl.rst  
 * https://github.com/littlevgl/lvgl
 * https://github.com/littlevgl/lv_drivers
 * https://github.com/littlevgl/lv_examples
