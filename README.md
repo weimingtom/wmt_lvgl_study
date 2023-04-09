@@ -4,6 +4,7 @@ My LVGL study
 ## TODO：
 * 请有时间补充一下工具链信息  
 * 研究一下https://gitee.com/mFlying/ssd2xx-demo  
+* https://github.com/weimingtom/wmt_ai_study/blob/master/gui_001.md  
 
 ## Windows VS2013 port (with FastFireFrame)    
 * lvgldemo_501_v5_input_pass.rar  
@@ -301,3 +302,31 @@ see also https://github.com/xvno/my-ttgo-watch
 * https://github.com/weimingtom/AliOS-Things/tree/dev_3.1.0_haas  
 * https://haas.iot.aliyun.com/haasapi/index.html#/Python/docs/zh-CN/startup/HaaS_EDU_K1_startup  
 
+## lvgldemo  
+* search baidupan, lvgldemo_v4_run_success.rar
+
+## LittlevGL, LVGL  
+* Light and Versatile Embedded Graphics Library  
+* https://littlevgl.com
+
+## lvgl esp32  
+* https://github.com/lvgl/lv_port_esp32
+* https://github.com/wireless-tag-cn/lv_port_esp32
+
+## 荔枝派
+* http://nano.lichee.pro/application/littlevgl.html
+* https://github.com/littlevgl/lvgl
+* https://github.com/littlevgl/lv_drivers
+* https://github.com/littlevgl/lv_examples
+
+## maixduino  
+* see maixduino examples  
+
+## framebuffer LVGL    
+* https://blog.lvgl.io/2018-01-03/linux_fb  
+* https://github.com/lvgl/lv_port_linux_frame_buffer  
+* https://blog.csdn.net/tq384998430/article/details/96841247  
+
+## Omega2 Dash  
+* https://onion.io/omega2-dash-guide/  
+* https://github.com/OnionIoT/lv_micropython  
