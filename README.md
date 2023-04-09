@@ -298,3 +298,5 @@ see also https://github.com/xvno/my-ttgo-watch
 ## HaaS EDU k1  
 * https://github.com/alibaba/AliOS-Things/blob/dev_3.1.0_haas/application/example/edu_demo/k1_apps/aircraftBattle/aircraftBattle.c  
 * https://github.com/weimingtom/AliOS-Things/tree/dev_3.1.0_haas  
+* https://haas.iot.aliyun.com/haasapi/index.html#/Python/docs/zh-CN/startup/HaaS_EDU_K1_startup  
+
