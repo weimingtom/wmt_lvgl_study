@@ -217,6 +217,12 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://github.com/sharandac/My-TTGO-Watch  
 This is factory firmware ???  
 see also https://github.com/xvno/my-ttgo-watch  
+factory firmware, twatch-2020-v3-220531.bin   
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/bin/2020-v3/twatch-2020-v3-220531.bin  
+* test firmware, 2020-V3_Speaker.bin  
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/bin/2020-V3_Speaker.bin  
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/examples/UnitTest/HardwareTest/HardwareTest.ino  
+https://github.com/jackp803/TTGO_TWatch_Lilbarray/blob/master/examples/UnitTest/HardwareTest/HardwareTest.ino  
 * https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
 * https://t-watch.readthedocs.io/zh_CN/latest/index.html  
 * https://t-watch-document-en.readthedocs.io/en/latest/index.html  
