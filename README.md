@@ -234,6 +234,7 @@ Play Audio!
 * https://github.com/lixy123/TTGO_T_Watch_Baidu_Rec  
 * https://github.com/spaceAngel/cyberWatch  
 * https://github.com/SkUrRiEr/T-Watch2020-BluetoothScan  
+T-Watch2020-BluetoothScan.7z  
 * 简单介绍一下我入手的T-Watch-2020-v3的出厂固件，似乎是开源的，  
 二进制固件在TTGO_TWatch_Library的bin目录，源码是在My-TTGO-Watch。  
 可能有几个，我下面的截图来源于xvno/my-ttgo-watch，  
