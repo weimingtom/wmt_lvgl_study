@@ -351,3 +351,6 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 
 ## f1c100s_boot  
 * https://github.com/Saoskywalker/f1c100s_boot  
+* https://github.com/Saoskywalker/micropython_for_f1c100s  
+* https://github.com/hcly/f1c100s  
+
