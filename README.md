@@ -342,3 +342,6 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 ## Omega2 Dash  
 * https://onion.io/omega2-dash-guide/  
 * https://github.com/OnionIoT/lv_micropython  
+
+## TL2855_2082-2121  
+* https://github.com/dwcsunshine/TL2855_2082-2121  
