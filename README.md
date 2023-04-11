@@ -345,3 +345,6 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 
 ## TL2855_2082-2121  
 * https://github.com/dwcsunshine/TL2855_2082-2121  
+
+## f1c_nonos  
+* https://github.com/minilogic/f1c_nonos  
