@@ -348,3 +348,6 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 
 ## f1c_nonos  
 * https://github.com/minilogic/f1c_nonos  
+
+## f1c100s_boot  
+* https://github.com/Saoskywalker/f1c100s_boot  
