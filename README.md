@@ -268,6 +268,8 @@ T-Watch2020-BluetoothScan.7z
 * https://github.com/Open-Smartwatch/open-smartwatch-os  
 
 ## 桌面天气时钟  
+* 1.33寸ESP12F-8266创意智能复古迷你手工麦金塔WIFI桌面天气时钟  
+* search baidupan, A MIni 资料  
 
 ## arduino 旋转太空人 天气时钟源码来啦 esp8266  
 
