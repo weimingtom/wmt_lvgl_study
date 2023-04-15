@@ -267,6 +267,12 @@ T-Watch2020-BluetoothScan.7z
 * https://www.eetree.cn/project/detail/152  
 * https://github.com/Open-Smartwatch/open-smartwatch-os  
 
+## N|Watch  
+* https://github.com/Soysauce007/WatchX-Nwatch-stm32  
+* https://blog.zakkemble.net/diy-digital-wristwatch/  
+* https://github.com/ZakKemble/NWatch  
+
+
 ## 桌面天气时钟  
 * 1.33寸ESP12F-8266创意智能复古迷你手工麦金塔WIFI桌面天气时钟  
 * search baidupan, A MIni 资料  
