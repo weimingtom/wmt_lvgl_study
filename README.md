@@ -367,3 +367,7 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 * https://gitee.com/gsm-wheather-project  
 * https://www.bilibili.com/video/BV1VU4y1v7VD/  
 
+## Footleg/arduino/T-Watch-2000  
+* https://github.com/Footleg/arduino/tree/master/T-Watch-2000  
+* https://www.bilibili.com/video/BV1QV411m7SX/  
+* LilyGo TWatch 2020 Arduino Framework 老外T-Watch的框架(中英字幕)  
