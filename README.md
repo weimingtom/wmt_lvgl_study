@@ -362,3 +362,8 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 * https://github.com/Saoskywalker/micropython_for_f1c100s  
 * https://github.com/hcly/f1c100s  
 
+## gsm-weather-esp32s3-esp-idf5.0, (ESP32桌面看台)gsm-weather-esp32s3版本  
+* https://gitee.com/gsm-wheather-project/gsm-weather-esp32s3-esp-idf5.0  
+* https://gitee.com/gsm-wheather-project  
+* https://www.bilibili.com/video/BV1VU4y1v7VD/  
+
