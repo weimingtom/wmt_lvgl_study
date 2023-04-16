@@ -385,3 +385,7 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 ## ESP32-S2 副屏  
 * https://github.com/chuanjinpang/win10_idd_xfz1986_usb_graphic_driver_display  
 * https://oshwhub.com/an_ye/cube-415_-zhuo-mian-fu-ping  
+
+## 小方屏时钟（Lite）程序, NXEZ Cube 小方屏 T1/T1 DHT10 定制套件 ESP8266 天气时钟 OLED  
+* https://make.quwj.com/project/231  
+* https://github.com/nxez/cube-clock-lite  
