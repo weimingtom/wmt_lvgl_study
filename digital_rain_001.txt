@@ -1,0 +1,109 @@
+https://blog.csdn.net/jd3096/article/details/125354986
+
+
+如何优雅地用micropython下一个代码雨？
+
+三十岁开始学编程的大叔
+
+已于 2022-09-26 22:10:04 修改
+
+306
+ 收藏 5
+分类专栏： micropython 文章标签： pygame python micropython
+版权
+
+micropython
+专栏收录该内容
+73 篇文章26 订阅
+订阅专栏
+其实早就想写一个这个小程序当练手了，一直挺喜欢黑客帝国的那种风格的，想着简单，但是写起来居然无从下手，首先程序必须好看，太次的东西我接受不了，其次要流畅，太卡我也接受不了。
+总体逻辑：
+1、随机字母以下雨的方式往下掉
+2、颜色要变化，有渐变
+3、可以自定义参数，方便移植到不同的屏幕
+4、同时有多个雨滴往下掉
+写一行雨滴其实真的不难，同时写多行我真的懵逼想了半天居然无从下手，python的pygame写的有很多，mpy没有，后来去github上找了一下，只有一个，但是核心代码居然只有20多行，优雅！实在是优雅！但是作者没给注释，于是硬着头皮逐步打印，分布运行，终于弄懂了机制，移植成功啦，效果如下：
+
+核心原理还是用数组，根据行列建立一个比屏幕显示多两行的，这两行用于缓存模拟雨滴的数据，然后这个数组专门用于储存雨滴的进程，也就是颜色等级，越高则越亮，看似是一行一行落的，其实每次都是输出全屏的字符！得力于我github大佬的高速st7789驱动，终于实现了丝滑的效果，学到了学到了，以后做东西多了个思路。
+最后贴上核心部分代码，再次感叹是现实太优雅了，实际只输出了一次字符，看似丝滑的动画是实际上是全屏字符刷出来的，前方高能优雅！抛去定义变量其实while那里里就三个for循环搞定了！
+
+BLACK = st7789.color565(0,0,0)
+WHITE = st7789.color565(200,255,200)
+
+FONT = 16
+width = 15
+height = 15
+size = width*height
+
+chars = [random.choice("0123456789abcdef") for _ in range(size+2*width)]
+field = [0 for _ in range(size+2*width)]
+
+while 1:
+    for _ in range(1):    #how many rains each time
+        field[int(random.random()*15)] = 15  #random rain
+    for i in range(size+width*2-1, width-1, -1):  #create matrix rain scale
+        if field[i-width] == 15:          #each line -1 and send to next line
+            field[i] = 15
+        if field[i-width] > 0:
+            field[i-width] -= 1
+    for i in range(size):       
+        if field[i+width]==0:             #decide color
+            attr = BLACK
+        elif field[i+width] == 15:
+            attr = WHITE
+        else:
+            attr=st7789.color565(0,43+field[i+width]*13,0)
+        lcd.text(font1,chars[i+width], FONT * (i % width),FONT * (i//width),attr,BLACK)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+硬件初始化部分，根据自己的平台来把
+
+import utime as time
+from machine import Pin,SPI
+import st7789,os,machine
+import random
+import font1
+
+#---------------Hardware init----------------
+#screen for 01stuido pyclock
+spi = machine.SPI(1,baudrate=40000000,mosi=Pin(7),miso=Pin(0),sck=Pin(6))   
+lcd = st7789.ST7789(
+    spi, 240,240,
+    reset=Pin(8, Pin.OUT),
+    cs=Pin(5, Pin.OUT),
+    dc=Pin(4, Pin.OUT),
+    backlight=Pin(0, Pin.OUT),
+    rotation=0   
+)
+
+lcd.init()
+lcd.inversion_mode(True)
+————————————————
+版权声明：本文为CSDN博主「三十岁开始学编程的大叔」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/jd3096/article/details/125354986
+
