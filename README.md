@@ -376,6 +376,7 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 * https://blog.csdn.net/jd3096/article/details/125354986  
 
 ## 副屏制作, HellGateMonitor    
+* https://github.com/Hotakus/HellGateMonitor  
 
 ## 3.5寸IPS TYPEC副屏机箱  
 * Wall.rar  
