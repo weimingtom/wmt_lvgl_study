@@ -374,3 +374,8 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 
 ## 如何优雅地用micropython下一个代码雨？  
 * https://blog.csdn.net/jd3096/article/details/125354986  
+
+## 副屏制作, HellGateMonitor    
+
+## 3.5寸IPS TYPEC副屏机箱  
+* Wall.rar  
