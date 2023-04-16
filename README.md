@@ -6,6 +6,38 @@ My LVGL study
 * 研究一下https://gitee.com/mFlying/ssd2xx-demo  
 * https://github.com/weimingtom/wmt_ai_study/blob/master/gui_001.md  
 
+## ttgo t-watch  
+* https://github.com/sharandac/My-TTGO-Watch  
+This is factory firmware ???  
+see also https://github.com/xvno/my-ttgo-watch  
+factory firmware, twatch-2020-v3-220531.bin   
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/bin/2020-v3/twatch-2020-v3-220531.bin  
+* test firmware, 2020-V3_Speaker.bin  
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/bin/2020-V3_Speaker.bin  
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/examples/UnitTest/HardwareTest/HardwareTest.ino  
+https://github.com/jackp803/TTGO_TWatch_Lilbarray/blob/master/examples/UnitTest/HardwareTest/HardwareTest.ino  
+Play Audio!  
+* https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
+* https://t-watch.readthedocs.io/zh_CN/latest/index.html  
+* https://t-watch-document-en.readthedocs.io/en/latest/index.html  
+* https://www.ui.cn/detail/50032.html  
+* https://blog.csdn.net/weixin_42413377/article/details/119258212  
+* https://zhuanlan.zhihu.com/p/80828378  
+* https://github.com/projetsdiy/T-Watch-Projects  
+* https://github.com/lixy123/TTGO_T_Watch_Baidu_Rec  
+* https://github.com/spaceAngel/cyberWatch  
+* https://github.com/SkUrRiEr/T-Watch2020-BluetoothScan  
+T-Watch2020-BluetoothScan.7z  
+* 简单介绍一下我入手的T-Watch-2020-v3的出厂固件，似乎是开源的，  
+二进制固件在TTGO_TWatch_Library的bin目录，源码是在My-TTGO-Watch。  
+可能有几个，我下面的截图来源于xvno/my-ttgo-watch，  
+实际运行会没有桌面图（黑色），需要自己设置。  
+实际效果和这些截图有不同，但大概的布局是差不多的  
+* display bmp: ips2_0_esp32_ganyu_twatch_2020_v3.rar  
+* display fonts and bmp: ips2_0_esp32_v2_success_twatch_2020_v3.7z  
+* fill with rgb: fillScreen_v1_twatch_2020_v3_success.7z  
+* ready to port: SmallDesktopDisplay_v3_success.rar  
+
 ## Windows VS2013 port (with FastFireFrame)    
 * lvgldemo_501_v5_input_pass.rar  
 * lvgldemo_530_v2_run_success.rar  
@@ -212,37 +244,6 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://www.espressif.com.cn/zh-hans/solutions/hmi/esp-hmi  
 * https://github.com/espressif/esp-dev-kits/tree/master/esp32-s2-hmi-devkit-1/examples/get-started/hello_world  
 * https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s2/esp32-s2-hmi-devkit-1/user_guide.html#getting-started  
-
-## ttgo t-watch  
-* https://github.com/sharandac/My-TTGO-Watch  
-This is factory firmware ???  
-see also https://github.com/xvno/my-ttgo-watch  
-factory firmware, twatch-2020-v3-220531.bin   
-https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/bin/2020-v3/twatch-2020-v3-220531.bin  
-* test firmware, 2020-V3_Speaker.bin  
-https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/bin/2020-V3_Speaker.bin  
-https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/blob/master/examples/UnitTest/HardwareTest/HardwareTest.ino  
-https://github.com/jackp803/TTGO_TWatch_Lilbarray/blob/master/examples/UnitTest/HardwareTest/HardwareTest.ino  
-Play Audio!  
-* https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
-* https://t-watch.readthedocs.io/zh_CN/latest/index.html  
-* https://t-watch-document-en.readthedocs.io/en/latest/index.html  
-* https://www.ui.cn/detail/50032.html  
-* https://blog.csdn.net/weixin_42413377/article/details/119258212  
-* https://zhuanlan.zhihu.com/p/80828378  
-* https://github.com/projetsdiy/T-Watch-Projects  
-* https://github.com/lixy123/TTGO_T_Watch_Baidu_Rec  
-* https://github.com/spaceAngel/cyberWatch  
-* https://github.com/SkUrRiEr/T-Watch2020-BluetoothScan  
-T-Watch2020-BluetoothScan.7z  
-* 简单介绍一下我入手的T-Watch-2020-v3的出厂固件，似乎是开源的，  
-二进制固件在TTGO_TWatch_Library的bin目录，源码是在My-TTGO-Watch。  
-可能有几个，我下面的截图来源于xvno/my-ttgo-watch，  
-实际运行会没有桌面图（黑色），需要自己设置。  
-实际效果和这些截图有不同，但大概的布局是差不多的  
-* display bmp: ips2_0_esp32_ganyu_twatch_2020_v3.rar  
-* display fonts and bmp: ips2_0_esp32_v2_success_twatch_2020_v3.7z  
-* fill with rgb: fillScreen_v1_twatch_2020_v3_success.7z  
 
 ## watchio  
 * https://github.com/eggfly/WatchIO  
