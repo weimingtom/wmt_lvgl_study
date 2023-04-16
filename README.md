@@ -382,5 +382,5 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 * Wall.rar  
 
 ## ESP32-S2 副屏  
-https://github.com/chuanjinpang/win10_idd_xfz1986_usb_graphic_driver_display  
-https://oshwhub.com/an_ye/cube-415_-zhuo-mian-fu-ping  
+* https://github.com/chuanjinpang/win10_idd_xfz1986_usb_graphic_driver_display  
+* https://oshwhub.com/an_ye/cube-415_-zhuo-mian-fu-ping  
