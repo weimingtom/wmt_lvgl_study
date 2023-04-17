@@ -389,3 +389,9 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 ## 小方屏时钟（Lite）程序, NXEZ Cube 小方屏 T1/T1 DHT10 定制套件 ESP8266 天气时钟 OLED  
 * https://make.quwj.com/project/231  
 * https://github.com/nxez/cube-clock-lite  
+
+## BL618, m0pdock  
+* https://github.com/bouffalolab/bouffalo_sdk/tree/master/examples/lvgl/demos  
+* https://github.com/sipeed/M0P_BL618_examples/blob/main/sipeed_support/examples/m0pdock/pt/src/pt.c  
+* https://wiki.sipeed.com/m0p  
+
