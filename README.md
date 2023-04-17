@@ -399,3 +399,9 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 * https://github.com/lvgl/lv_port_maixduino  
 * https://github.com/sipeed/Maixduino/tree/master/libraries  
 * https://github.com/lvgl/lv_port_maixduino/tree/6bcae290e53020bd4abbc089fd483635df3b0a3d  
+
+## M1s DOCK 开发板, BL808 RISC-V    
+* https://gitee.com/Sipeed/M1s_BL808_example/blob/main/c906_app/lvgl_demo/main.c  
+* https://wiki.sipeed.com/hardware/zh/maix/m1s/m1s_dock.html  
+* https://wiki.sipeed.com/m1s  
+
