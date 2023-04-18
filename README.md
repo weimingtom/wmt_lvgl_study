@@ -410,4 +410,14 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 * https://gitee.com/sipeed/M1s_BL808_example  
 * https://gitee.com/sipeed/M1s_BL808_SDK  
 
+## ART-Pi, stm32h750    
+* https://art-pi.gitee.io/website/  
+* https://blog.csdn.net/weixin_37127273/article/details/110134225  
+* https://blog.csdn.net/qq_43610430/article/details/120152946  
+* https://gitee.com/mirrors/ART-Pi/tree/master/tools/firmware  
+* https://blog.csdn.net/toopoo/article/details/113105148  
+
+## lvgl_demo_music  
+* https://github.com/RT-Thread-packages/lv_demo_music  
+
 
