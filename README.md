@@ -127,6 +127,7 @@ http://doc.industio.com/docs/ido-sbc2d06/ido-sbc2d06-1cu14t7bq11de
 ## STM32F429I-DISC1, 240x320, LVGL8      
 * STM32Cube_FW_F4_V1.27.0_v6_lvgl_good_stm32f429i_disc1.rar  
 * https://github.com/lvgl/lv_port_stm32f429_disco  
+* https://github.com/app-z/stm32f429_ili9341  
 
 ## 君正MIPS, 青联X2000, 1024 * 600, from ssd202d version, static link (gcc -static)    
 * lv_port_linux_frame_buffer_x2000_lvgl_v1.tar.gz  
