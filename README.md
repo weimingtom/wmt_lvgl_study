@@ -38,6 +38,12 @@ T-Watch2020-BluetoothScan.7z
 * fill with rgb: fillScreen_v1_twatch_2020_v3_success.7z  
 * ready to port: SmallDesktopDisplay_v3_success.rar  
 
+## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough (for NodeMCU-32S and st7789 ips 240x240)    
+* Board: ESP32 Dev Module  
+* Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)   
+* SmallDesktopDisplay_v4.rar  
+* 4_11_SmallDesktopDisplay.rar  
+
 ## Windows VS2013 port (with FastFireFrame)    
 * lvgldemo_501_v5_input_pass.rar  
 * lvgldemo_530_v2_run_success.rar  
