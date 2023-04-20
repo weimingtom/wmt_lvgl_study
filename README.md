@@ -43,13 +43,10 @@ T-Watch2020-BluetoothScan.7z
 * Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)   
 * SmallDesktopDisplay_v4.rar  
 * 4_11_SmallDesktopDisplay.rar  
-* SD²固件V1.2.zip  
 
-## Windows VS2013 port (with FastFireFrame)    
-* lvgldemo_501_v5_input_pass.rar  
-* lvgldemo_530_v2_run_success.rar  
-* lvgldemo_612_v1_success.rar  
-* lvgldemo_711_v1_success.rar  
+## (origin) ESP8266wifi天气时间站  
+* SD²固件V1.2.zip  
+* https://oshwhub.com/wo-niu-ke-ji/ESP8266wifitian-qi-shi-jian-zhan  
 
 ## 桌面天气时钟  
 * 1.33寸ESP12F-8266创意智能复古迷你手工麦金塔WIFI桌面天气时钟  
@@ -58,6 +55,12 @@ T-Watch2020-BluetoothScan.7z
 
 ## arduino 旋转太空人 天气时钟源码来啦 esp8266  
 * SmallDesktopDisplay ???  
+
+## Windows VS2013 port (with FastFireFrame)    
+* lvgldemo_501_v5_input_pass.rar  
+* lvgldemo_530_v2_run_success.rar  
+* lvgldemo_612_v1_success.rar  
+* lvgldemo_711_v1_success.rar  
 
 ## WT32-SC01 (ESP32 wrover) port  
 * lvgldemo_v3_success_wt32_self_lvgl.rar  
