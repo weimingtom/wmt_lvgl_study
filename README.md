@@ -43,12 +43,21 @@ T-Watch2020-BluetoothScan.7z
 * Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)   
 * SmallDesktopDisplay_v4.rar  
 * 4_11_SmallDesktopDisplay.rar  
+* SD²固件V1.2.zip  
 
 ## Windows VS2013 port (with FastFireFrame)    
 * lvgldemo_501_v5_input_pass.rar  
 * lvgldemo_530_v2_run_success.rar  
 * lvgldemo_612_v1_success.rar  
 * lvgldemo_711_v1_success.rar  
+
+## 桌面天气时钟  
+* 1.33寸ESP12F-8266创意智能复古迷你手工麦金塔WIFI桌面天气时钟  
+* search baidupan, A MIni 资料  
+* SmallDesktopDisplay  
+
+## arduino 旋转太空人 天气时钟源码来啦 esp8266  
+* SmallDesktopDisplay ???  
 
 ## WT32-SC01 (ESP32 wrover) port  
 * lvgldemo_v3_success_wt32_self_lvgl.rar  
@@ -279,14 +288,6 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://github.com/Soysauce007/WatchX-Nwatch-stm32  
 * https://blog.zakkemble.net/diy-digital-wristwatch/  
 * https://github.com/ZakKemble/NWatch  
-
-
-## 桌面天气时钟  
-* 1.33寸ESP12F-8266创意智能复古迷你手工麦金塔WIFI桌面天气时钟  
-* search baidupan, A MIni 资料  
-
-## arduino 旋转太空人 天气时钟源码来啦 esp8266  
-
 ## ESP32墨水屏开发板_4寸_北京物联网开发  
 
 ## win10_idd_xfz1986_usb_graphic_driver_display  
