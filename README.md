@@ -255,6 +255,8 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * 有 MDK 版本和 VS 模拟器版本  
 * https://gitee.com/mzy2364/LittlevGL_Demo  
 * 101.LittleVGL GUI SDK资料, LittlevGL 20201231.rar, 开源GUI LittlevGL应用.pdf  
+* Bison-Board, 野牛开发板, 野牛STM32F429手持机/开发板/工控/HMI    
+* 出自：野火swm32/01.SYNWIT技术应用资料/00.其它公用资料/101.LittleVGL GUI SDK资料  
 
 ## gd32f450  
 * https://gitee.com/tinnu/littlevgl_gd32f450  
