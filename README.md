@@ -364,6 +364,13 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 ## Omega2 Dash  
 * https://onion.io/omega2-dash-guide/  
 * https://github.com/OnionIoT/lv_micropython  
+* https://github.com/OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c  
+* 实际上对于LVGL，即使不使用编辑器和代码生成器技术，也可以玩，  
+那就是把官方的例子拿来魔改，例如这个：  
+OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c  
+它应该是把一个名叫lv_test_theme_2的方法拿来演示，  
+但我认为这样非常好看（图转自onion.io/omega2-dash-guide）  
+
 
 ## TL2855_2082-2121  
 * https://github.com/dwcsunshine/TL2855_2082-2121  
