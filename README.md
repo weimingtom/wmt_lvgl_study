@@ -456,4 +456,6 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * https://lckfb.com/docs/lspi_rgb_mcu_lcd_ex/#/屏幕扩展板资料下载  
 * https://lckfb.com/project/detail/lspi_rgb_mcu_lcd_ex  
 * 梁山派屏幕代码.zip  
+* 梁山派LVGL移植RGB-480x800  
+* https://blog.csdn.net/qq_51930953/article/details/129313750  
 
