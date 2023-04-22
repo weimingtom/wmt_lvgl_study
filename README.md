@@ -435,6 +435,6 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 ## ES32 SDK
 * https://www.essemi.com/index/product/detail?id=799  
 * 嵌入式软件, ES32_SDK 1.20  
-* ES32_SDK.zip, ES32_SDK_V1.12/Middlewares/Third_Party/lvgl_V6.0  
-
+* LVGL 6.0.0, ES32_SDK.zip, ES32_SDK_V1.12/Middlewares/Third_Party/lvgl_V6.0  
+* LVGL 8.3.3, ES32_SDK-V1.20.7z\ES32_SDK-V1.20\ES32_SDK-V1.20\Middlewares\Third_Party\lvgl  
 
