@@ -438,3 +438,7 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 * LVGL 6.0.0, ES32_SDK.zip, ES32_SDK_V1.12/Middlewares/Third_Party/lvgl_V6.0  
 * LVGL 8.3.3, ES32_SDK-V1.20.7z\ES32_SDK-V1.20\ES32_SDK-V1.20\Middlewares\Third_Party\lvgl  
 
+## NUC  
+* LVGL-v8.3.4 : https://github.com/OpenNuvoton/LVGL_NUMAKER-HMI-N9H30/tree/master/packages/LVGL-v8.3.4  
+* LVGL 5.1.1: https://github.com/OpenNuvoton/AliOS-Things/tree/numicro/3rdparty/experimental/gui/littlevGL  
+
