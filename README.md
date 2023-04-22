@@ -229,6 +229,9 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * (origin) https://github.com/huanghl365/LittlevGL/blob/master/Doc/03.F1C100S_Linux/F1C100S_Linux.md  
 * (dead) https://littlevgl.readthedocs.io/en/latest/Doc/03.F1C100S_Linux/F1C100S_Linux.html    
 
+## 小淘气, f1c200s    
+* F1C100S_keil开发文件，较大的那个压缩包里面有（有两个，小的那个是在csdn下载的，大的那个是在闲鱼买的）  
+
 ## (TODO) 100ask lvgl doc  
 * https://100ask-lvgl-doc.readthedocs.io/zh/latest/  
 
