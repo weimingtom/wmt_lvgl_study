@@ -432,7 +432,7 @@ see https://github.com/Lichee-Pi/Lichee-Nano-Doc-us-english/blob/master/applicat
 ## lvgl_demo_music  
 * https://github.com/RT-Thread-packages/lv_demo_music  
 
-## ES32 SDK
+## ES32 SDK, Eastsoft东软载波, ES32F36xx  
 * https://www.essemi.com/index/product/detail?id=799  
 * 嵌入式软件, ES32_SDK 1.20  
 * LVGL 6.0.0, ES32_SDK.zip, ES32_SDK_V1.12/Middlewares/Third_Party/lvgl_V6.0  
