@@ -458,3 +458,7 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * https://lckfb.com/docs/lspi_rgb_mcu_lcd_ex/#/屏幕扩展板资料下载  
 * https://lckfb.com/project/detail/lspi_rgb_mcu_lcd_ex  
 * 梁山派屏幕代码.zip  
+
+## QF Zero Watch (closed source)  
+* QF_ZERO_V2_V1_0_0.zip  
+* https://oshwhub.com/dhx233/esp32_s3_watch  
