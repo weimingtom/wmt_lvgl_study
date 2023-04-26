@@ -463,3 +463,5 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 ## QF ZERO V2 智能手表终端 (closed source)  
 * QF_ZERO_V2_V1_0_0.zip  
 * https://oshwhub.com/dhx233/esp32_s3_watch  
+
+## esp32_monitor  
