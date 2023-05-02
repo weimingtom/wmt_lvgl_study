@@ -466,3 +466,6 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * https://oshwhub.com/dhx233/esp32_s3_watch  
 
 ## esp32_monitor  
+
+## HPM6750  
+* ebf_hpm6750_code_20230331.zip\lv_demo_widgets\lv_demo_widgets\middleware\littlevgl   
