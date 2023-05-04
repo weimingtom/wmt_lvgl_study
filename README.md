@@ -473,3 +473,10 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 
 ## nes-lvgl-rtt  
 * https://github.com/greedyhao/nes-lvgl-rtt  
+
+## vocore2 sdl lvgl  
+* https://github.com/Vonger/vocore2/tree/master/utils/lvgl-fb-demo  
+* https://vocore.io/screen.html  
+* http://vonger.cn/misc/screen/lvgldemo.zip  
+* http://vonger.cn/misc/screen/20200927.bin.xz  
+* https://vocore.io/screen-notouch.html  
