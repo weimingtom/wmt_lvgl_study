@@ -480,3 +480,8 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * http://vonger.cn/misc/screen/lvgldemo.zip  
 * http://vonger.cn/misc/screen/20200927.bin.xz  
 * https://vocore.io/screen-notouch.html  
+
+## minipad  
+* https://gitee.com/Jumping99/minipad  
+* https://www.bilibili.com/video/BV1Yo4y1w7qs  
+
