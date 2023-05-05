@@ -485,3 +485,6 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * https://gitee.com/Jumping99/minipad  
 * https://www.bilibili.com/video/BV1Yo4y1w7qs  
 
+## mangopi tina lvgl packages  
+* https://github.com/mangopi-sbc/tina-package/tree/main/gui/littlevgl-8  
+* https://github.com/mangopi-sbc/tina-package/tree/main/gui/littlevgl-6  
