@@ -493,3 +493,5 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 
 ## flutter-embedded-linux  
 * https://github.com/sony/flutter-embedded-linux  
+* https://github.com/sony/flutter-elinux  
+
