@@ -499,3 +499,8 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * https://github.com/sony/flutter-embedded-linux  
 * https://github.com/sony/flutter-elinux  
 
+## 诛仙剑C-SKY  
+* csky_v2_success.tar.gz  
+* csky-linux-gcc: csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz  
+* usb.img  
+
