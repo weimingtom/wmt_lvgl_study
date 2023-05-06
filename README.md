@@ -442,6 +442,8 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * https://blog.csdn.net/qq_43610430/article/details/120152946  
 * https://gitee.com/mirrors/ART-Pi/tree/master/tools/firmware  
 * https://blog.csdn.net/toopoo/article/details/113105148  
+* https://github.com/luhuadong/FCTC-ART-Pi-Code  
+* 
 
 ## lvgl_demo_music  
 * https://github.com/RT-Thread-packages/lv_demo_music  
@@ -455,6 +457,7 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 ## NUC  
 * LVGL-v8.3.4 : https://github.com/OpenNuvoton/LVGL_NUMAKER-HMI-N9H30/tree/master/packages/LVGL-v8.3.4  
 * LVGL 5.1.1: https://github.com/OpenNuvoton/AliOS-Things/tree/numicro/3rdparty/experimental/gui/littlevGL  
+* https://github.com/luhuadong/NuMaker-N9H30-Player    
 
 ## 梁山派, GD32F470ZGT6    
 * https://blog.csdn.net/qq_51930953/article/details/129313750  
