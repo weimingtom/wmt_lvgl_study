@@ -255,7 +255,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://qiita.com/sylphy_00/items/77f5b9d5fdba85860d9d  
 * http://www.jczn1688.com/zlxz  
 
-## TK032F8004 smart_IoT  
+## TK032F8004 smart_IoT, TKM32F499    
 * TK499_LTDC_TK032F8004_LVGL.zip  
 
 ## STM32F429IGTx, 适用于野牛开发板的 LittlevGL 的 demo 程序  
