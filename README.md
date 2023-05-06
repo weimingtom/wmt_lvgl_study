@@ -504,3 +504,8 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * csky-linux-gcc: csky-linux-tools-x86_64-glibc-linux-4.9.25-20170522.tar.gz  
 * usb.img  
 
+## a33 lvgl  
+* 用a33-vstar开发板运行lvgl_demo（lvgl v7），热量还可以（不是很厉害），  
+fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，  
+以后再想办法（可以移动但不可以点击）。偷懒没有编译evtest，  
+只是通过getevent查询输入设备  
