@@ -95,6 +95,7 @@ idf.py flash
 * https://github.com/Skorpi08/WT32-SC01-PLUS  
 * https://github.com/dudals-jung/WT32-SC01-PLUS-LVGL-IDF  
 * https://github.com/WojciechowskiMarek/WT32-SC01-Plus_ESP32-S3_JIngle_Bells  
+* https://github.com/FCam1/SC01_Plus_HMI_example  
 
 ## Android port  
 * (NOT DONE) search baidupan, lvgldemo_android_v2.rar  
