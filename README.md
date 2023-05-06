@@ -490,3 +490,6 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 ## mangopi tina lvgl packages  
 * https://github.com/mangopi-sbc/tina-package/tree/main/gui/littlevgl-8  
 * https://github.com/mangopi-sbc/tina-package/tree/main/gui/littlevgl-6  
+
+## flutter-embedded-linux  
+* https://github.com/sony/flutter-embedded-linux  
