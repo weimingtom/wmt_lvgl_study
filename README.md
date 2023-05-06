@@ -111,6 +111,8 @@ idf.py flash
 
 ## d1, nezha    
 * lv_port_linux_frame_buffer_nezha_d1_hdmi_event3_git.tgz  
+* (toolchain:) Xuantie-900-gcc-linux-5.10.4-glibc-x86_64-V2.2.4-20211227.tar.gz  
+* (d1s, SDL) SDL-1.2.15_makefile_v7_keyboard_failed.tar.gz  
 
 ## 芒果派MQ的lvgl_demo源代码出处  
 https://bbs.aw-ol.com/topic/303/哪吒d1开发板-lvgl7-源码下载-带git仓库/31?lang=zh-CN  
