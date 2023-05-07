@@ -520,3 +520,6 @@ fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，
 
 ## ESP_MASTER  
 * https://github.com/Kevincoooool/ESP_MASTER  
+
+## LicheeRV dock hdmi, etc/rc.d/S99tinatest, waft_app, waftapps/app_wifi.wasm  
+* LicheeRV_Tina_dock_hdmi_8723ds.img  
