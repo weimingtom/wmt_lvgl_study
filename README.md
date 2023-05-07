@@ -531,3 +531,5 @@ fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，
 * (linux rom, need written with mount under virtualbox ubuntu 1404) Zero_pub_V0.3.gz  
 * (evtest) evtest-master_v1_zero.tar.gz  
 
+## RT595  
+* https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt595-evaluation-kit:MIMXRT595-EVK  
