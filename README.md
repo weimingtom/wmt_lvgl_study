@@ -533,3 +533,9 @@ fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，
 
 ## RT595  
 * https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt595-evaluation-kit:MIMXRT595-EVK  
+
+## watch  
+* https://blog.csdn.net/StarEmbedded/article/details/105751357  
+STM32F413-DISCOVERY  
+* https://github.com/Open-Smartwatch/open-smartwatch-os  
+* https://github.com/lxydiy/lvgl-watch   
