@@ -509,6 +509,7 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，  
 以后再想办法（可以移动但不可以点击）。偷懒没有编译evtest，  
 只是通过getevent查询输入设备  
+* lv_port_linux_frame_buffer_arm_a33_v1.tar.gz  
 
 ## melis orange  
 * https://github.com/Tina-Linux/d1s-melis/tree/master/emodules/mod_orange/GUI  
