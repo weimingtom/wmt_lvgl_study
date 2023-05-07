@@ -539,3 +539,5 @@ fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，
 STM32F413-DISCOVERY  
 * https://github.com/Open-Smartwatch/open-smartwatch-os  
 * https://github.com/lxydiy/lvgl-watch   
+* https://github.com/STMicroelectronics/STM32CubeG0/blob/master/Projects/STM32G0C1E-EV/Demonstrations/Modules/calendar/app_calendar.c  
+
