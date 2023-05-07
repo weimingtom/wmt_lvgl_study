@@ -513,3 +513,5 @@ fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，
 ## melis orange  
 * https://github.com/Tina-Linux/d1s-melis/tree/master/emodules/mod_orange/GUI  
 * https://github.com/Tina-Linux/d1s-melis/blob/master/livedesk/beetles/sun20iw1_app/apps/app_root/app_root_scene.c  
+* https://github.com/yilanjueding123/quanzhiwork  
+
