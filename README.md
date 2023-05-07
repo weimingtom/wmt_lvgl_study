@@ -524,3 +524,6 @@ fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，
 
 ## LicheeRV dock hdmi, etc/rc.d/S99tinatest, waft_app, waftapps/app_wifi.wasm  
 * LicheeRV_Tina_dock_hdmi_8723ds.img  
+
+## 荔枝派zero  
+* (TODO, not done) lv_port_linux_frame_buffer_licheezero_v2_input.tar.gz  
