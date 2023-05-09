@@ -541,3 +541,6 @@ STM32F413-DISCOVERY
 * https://github.com/lxydiy/lvgl-watch   
 * https://github.com/STMicroelectronics/STM32CubeG0/blob/master/Projects/STM32G0C1E-EV/Demonstrations/Modules/calendar/app_calendar.c  
 
+## LVGL_Watchface  
+* https://github.com/moononournation/LVGL_Watchface  
+* https://www.instructables.com/Design-Watch-Face-With-LVGL/  
