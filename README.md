@@ -546,3 +546,5 @@ STM32F413-DISCOVERY
 * https://www.instructables.com/Design-Watch-Face-With-LVGL/  
 * https://www.hackster.io/news/chen-liang-s-smart-arduino-watch-faces-are-built-with-lvgl-and-squareline-studio-125a84c86c8f  
 
+## ZSWatch  
+* https://github.com/jakkra/ZSWatch  
