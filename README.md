@@ -40,8 +40,10 @@ T-Watch2020-BluetoothScan.7z
 * display bmp: ips2_0_esp32_ganyu_twatch_2020_v3.rar  
 * display fonts and bmp: ips2_0_esp32_v2_success_twatch_2020_v3.7z  
 * fill with rgb: fillScreen_v1_twatch_2020_v3_success.7z  
-* SmallDesktopDisplay ready to port: SmallDesktopDisplay_v3_success.rar  
-* SmallDesktopDisplay port: SmallDesktopDisplay_v5_twatch2020v3.rar  
+* SmallDesktopDisplay ready to port (no wifi, not twatch, only 240 screen and bread board):   
+SmallDesktopDisplay_v3_success.rar  
+* SmallDesktopDisplay twatch port:   
+SmallDesktopDisplay_v5_twatch2020v3.rar  
 
 ## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough (for NodeMCU-32S and st7789 ips 240x240)    
 * Board: ESP32 Dev Module  
