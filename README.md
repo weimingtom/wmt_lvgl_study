@@ -548,3 +548,9 @@ STM32F413-DISCOVERY
 
 ## ZSWatch  
 * https://github.com/jakkra/ZSWatch  
+
+## waveshare 1.28 inch watch  
+* https://www.waveshare.com/wiki/RP2040-LCD-1.28  
+* 1.28inch_Touch_LCD_RPI.zip\1.28inch_Touch_LCD_RPI\c\pic\LCD_1inch28_1.bmp  
+* 1.28inch_Touch_LCD_RPI.zip\1.28inch_Touch_LCD_RPI\c\examples\image.c  
+* RP2040-LCD-1.28.zip\RP2040-LCD-1.28\c\examples\ImageData.c  
