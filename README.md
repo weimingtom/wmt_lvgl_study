@@ -6,6 +6,10 @@ My LVGL study
 * 研究一下https://gitee.com/mFlying/ssd2xx-demo  
 * https://github.com/weimingtom/wmt_ai_study/blob/master/gui_001.md  
 
+## dino  
+* wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
+dino_v2_2inch_wio_rp2040_success_important.rar   
+
 ## ttgo t-watch  
 * https://github.com/sharandac/My-TTGO-Watch  
 This is factory firmware ???  
