@@ -551,6 +551,10 @@ STM32F413-DISCOVERY
 
 ## waveshare 1.28 inch watch  
 * https://www.waveshare.com/wiki/RP2040-LCD-1.28  
+* RP2040-LCD-1.28.zip\RP2040-LCD-1.28\c\examples\ImageData.c  
+* https://www.waveshare.com/wiki/1.28inch_Touch_LCD  
 * 1.28inch_Touch_LCD_RPI.zip\1.28inch_Touch_LCD_RPI\c\pic\LCD_1inch28_1.bmp  
 * 1.28inch_Touch_LCD_RPI.zip\1.28inch_Touch_LCD_RPI\c\examples\image.c  
-* RP2040-LCD-1.28.zip\RP2040-LCD-1.28\c\examples\ImageData.c  
+* https://www.waveshare.net/wiki/1.28inch_LCD_Module  
+* LCD_Module_code.zip\RaspberryPi\python\pic   
+
