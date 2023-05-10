@@ -557,4 +557,5 @@ STM32F413-DISCOVERY
 * 1.28inch_Touch_LCD_RPI.zip\1.28inch_Touch_LCD_RPI\c\examples\image.c  
 * https://www.waveshare.net/wiki/1.28inch_LCD_Module  
 * LCD_Module_code.zip\RaspberryPi\python\pic   
-
+* https://www.waveshare.net/wiki/1.28inch_Touch_LCD  
+* 1.28inch_Touch_LCD_Demo.zip\1.28inch_Touch_LCD_Demo\RPI\python\pic  
