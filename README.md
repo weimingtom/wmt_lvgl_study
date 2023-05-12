@@ -565,3 +565,19 @@ STM32F413-DISCOVERY
 * LCD_Module_code.zip\RaspberryPi\python\pic   
 * https://www.waveshare.net/wiki/1.28inch_Touch_LCD  
 * 1.28inch_Touch_LCD_Demo.zip\1.28inch_Touch_LCD_Demo\RPI\python\pic  
+
+## LicheeRV Dock 800 480 screen extention board    
+* test 800x480 screen    
+```
+/usr/bin/waft_app /waftapps/app_wifi.wasm
+dfbdump
+dfbshow
+dfbshow /usr/share/directfb-examples/dfblogo.png
+dfbshow /root/sipeed.png
+/usr/bin/waft_app /root/render_example.wasm
+/usr/bin/waft_app /root/render_example_d1_allwin.wasm
+```
+* LicheeRV_Tina_dock_800480_8723ds.img有启动画面  
+* LicheeRV_Tina_800480.7z无启动画面，但可以显示800x480  
+* 屏幕扩展板，虽然有触摸口，都不支持触摸屏（最好用mangopi或者licheerv 86盒）  
+* 注意屏线都是金属向上  
