@@ -637,7 +637,7 @@ dfbshow /root/sipeed.png
 * (burn tools) PhoenixCard.zip, V4.2.8    
 
 ## vocore2 lvgl demo, not work    
-* 5寸屏没跑通，可能要自己编译或者分辨率没对上，反正没点亮  
+* 5寸屏用v2u(vocore2开发板白色立方体)没跑通，可能要自己编译或者分辨率没对上，反正没点亮  
 * toolchain.tar.bz2  
 * lvgldemo.zip  
 * fbusb.vocore2.ko  
