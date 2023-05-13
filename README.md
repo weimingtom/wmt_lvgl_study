@@ -606,7 +606,7 @@ STM32F413-DISCOVERY
 ## ZSWatch  
 * https://github.com/jakkra/ZSWatch  
 
-## waveshare 1.28 inch watch  
+## waveshare 1.28 inch watch, demo bg picture    
 * https://www.waveshare.com/wiki/RP2040-LCD-1.28  
 * RP2040-LCD-1.28.zip\RP2040-LCD-1.28\c\examples\ImageData.c  
 * https://www.waveshare.com/wiki/1.28inch_Touch_LCD  
@@ -616,8 +616,10 @@ STM32F413-DISCOVERY
 * LCD_Module_code.zip\RaspberryPi\python\pic   
 * https://www.waveshare.net/wiki/1.28inch_Touch_LCD  
 * 1.28inch_Touch_LCD_Demo.zip\1.28inch_Touch_LCD_Demo\RPI\python\pic  
+* 转换后的图片和字体，微雪示例中自带的背景图, picmodpng和font    
 
-## LicheeRV Dock 800 480 screen extention board    
+## (touch not good) LicheeRV Dock 800 480 screen extention board    
+* not good, 触摸屏屏线接口没用, 暂时不知道怎么触摸  
 * test 800x480 screen    
 ```
 /usr/bin/waft_app /waftapps/app_wifi.wasm
