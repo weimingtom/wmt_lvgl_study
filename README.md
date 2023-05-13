@@ -642,3 +642,11 @@ dfbshow /root/sipeed.png
 * lvgldemo.zip  
 * fbusb.vocore2.ko  
 * vodisp和lvgldemo无法运行, vodisp提示libusb so缺少, demo运行没有显示（分辨率不对？）      
+
+## (touch screen good) 芒果派MQ（非R版）
+* (firmware) tina_d1-mangopi_mq_rgb800x480_gt9xx_uart0_可能修复了某些显示屏问题_2021-12-24.7z  
+* (burn tools) phoenixcard4.2.8.zip  
+* 自带启动LVGL例子 
+* (not good firmware for touch) mq-r-f133-rtl8189fs-5113-dns-uart0.zip  
+* (not good firmware for touch) tina_d1-mangopi_mq_rgb800x480_gt9xx_uart0_20211214.img  
+* (touch screen) bought from mangopi, 5inch, 800x480, XJW050-GQ 2022.11.21, F500G4024-Q01, STC911-19, gt911  
