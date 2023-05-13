@@ -50,6 +50,8 @@ SmallDesktopDisplay_v5_twatch2020v3.rar
 * dino arduino port  
 dino_twatch2020v3_v7_success.rar  
 dino_twatch2020v3_v8_faster.rar  
+* 微雪代码演示背景图显示  
+watchdemo_twatchv3_v1_success.rar  
 
 ## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough (for NodeMCU-32S and st7789 ips 240x240)    
 * Board: ESP32 Dev Module  
