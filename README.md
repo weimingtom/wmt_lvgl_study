@@ -537,7 +537,7 @@ fb0 800 480，dev input event2对应鼠标。触摸屏输入还不行，
 ## LicheeRV dock hdmi, etc/rc.d/S99tinatest, waft_app, waftapps/app_wifi.wasm  
 * LicheeRV_Tina_dock_hdmi_8723ds.img  
 
-## 荔枝派zero, licheepi zero    
+## 荔枝派zero, licheepi zero, with touch screen      
 * (TODO, not done) lv_port_linux_frame_buffer_licheezero_v2_input.tar.gz, see below another vocore version     
 * (new lvgl demo, using vocore2 version, no console cursor)    
 lvgldemo.zip  
@@ -547,6 +547,7 @@ demo
 * (linux rom, need written with mount under virtualbox ubuntu 1404) Zero_pub_V0.3.gz  
 * (evtest) evtest-master_v1_zero.tar.gz  
 * (burn tools) Win32DiskImager-1.0.0-binary.zip  
+* (touch screen) CJ050QGH50-05442Y-01 2023-01-03, FOG-050QGH113-40, 5inch touch screen, bought from sipeed    
 
 ## RT595  
 * https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt595-evaluation-kit:MIMXRT595-EVK  
