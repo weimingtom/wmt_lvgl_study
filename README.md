@@ -548,6 +548,45 @@ demo
 * (evtest) evtest-master_v1_zero.tar.gz  
 * (burn tools) Win32DiskImager-1.0.0-binary.zip  
 * (touch screen) CJ050QGH50-05442Y-01 2023-01-03, FOG-050QGH113-40, 5inch touch screen, bought from sipeed    
+* lv_port_linux_frame_buffer例子, 显示控制台的白色方块光标, 不太好看      
+```
+用Win32DiskImager-1.0.0-binary烧录tf卡Zero_pub_V0.3.gz/test.img
+接usb（供电和虚拟网卡？），并且需要另外用FT232接UART0调试串口115200-8-1-none-none，u口非串口
+针脚图：https://wiki.sipeed.com/soft/Lichee/zh/Zero-Doc/Start/intro_cn.html
+屏线向上，左上9和左上10是UART0-TX，UART0-RX，右上7是GND
+密码：root/licheepi
+
+tf卡挂载在ubuntu下修改（virtualbox选择读卡器USB设备连接）
+$ ls /media/wmt/
+$ sudo ls /media/wmt/50641143-6315-449a-b9e6-d8fe8b4d75aa/root/
+$ sudo cp /media/wmt/50641143-6315-449a-b9e6-d8fe8b4d75aa/root/demo demomod
+
+工具链：
+https://releases.linaro.org/components/toolchain/binaries/6.3-2017.05/arm-linux-gnueabihf/
+gcc-linaro-6.3.1-2017.05-x86_64_arm-linux-gnueabihf.tar.xz
+gcc-linaro-6.3.1-2017.05-i686_arm-linux-gnueabihf.tar.xz
+use ubuntu140432, i686
+
+测试ev
+https://blog.csdn.net/phmatthaus/article/details/127748541
+$ ls /dev/input
+$ cat /proc/bus/input/devices 
+$ cat /dev/input/event1
+event0是键盘，event1是触摸屏？
+
+测试lvgl_demo
+记录5寸触摸屏型号：CJ050QGH50，FOG-050QGH113-40
+lv_drv_conf.h
+EVDEV_CALIBRATE
+#  define EVDEV_CALIBRATE         0               /*Scale and offset the touchscreen coordinates by using maximum and minimum values for each axis*/
+#  if EVDEV_CALIBRATE
+#    define EVDEV_HOR_MIN   3800                    /*If EVDEV_XXX_MIN > EVDEV_XXX_MAX the XXX axis is automatically inverted*/
+#    define EVDEV_HOR_MAX   200
+#    define EVDEV_VER_MIN   200
+#    define EVDEV_VER_MAX   3800
+#  endif  /*EVDEV_SCALE*/
+```
+* vocore例子, 可以不显示控制台的光标  
 
 ## RT595  
 * https://www.nxp.com/design/development-boards/i-mx-evaluation-and-development-boards/i-mx-rt595-evaluation-kit:MIMXRT595-EVK  
