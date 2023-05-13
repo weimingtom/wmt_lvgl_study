@@ -634,6 +634,7 @@ dfbshow /root/sipeed.png
 * LicheeRV_Tina_800480.7z无启动画面，但可以显示800x480  
 * 屏幕扩展板，虽然有触摸口，都不支持触摸屏（最好用mangopi或者licheerv 86盒）  
 * 注意屏线都是金属向上  
+* (burn tools) PhoenixCard.zip, V4.2.8    
 
 ## vocore2 lvgl demo, not work    
 * 5寸屏没跑通，可能要自己编译或者分辨率没对上，反正没点亮  
