@@ -9,6 +9,9 @@ My LVGL study
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
 dino_v2_2inch_wio_rp2040_success_important.rar   
+* dino arduino port  
+dino_twatch2020v3_v7_success.rar  
+dino_twatch2020v3_v8_faster.rar  
 
 ## ttgo t-watch  
 * https://github.com/sharandac/My-TTGO-Watch  
@@ -44,6 +47,9 @@ T-Watch2020-BluetoothScan.7z
 SmallDesktopDisplay_v3_success.rar  
 * SmallDesktopDisplay twatch port:   
 SmallDesktopDisplay_v5_twatch2020v3.rar  
+* dino arduino port  
+dino_twatch2020v3_v7_success.rar  
+dino_twatch2020v3_v8_faster.rar  
 
 ## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough (for NodeMCU-32S and st7789 ips 240x240)    
 * Board: ESP32 Dev Module  
