@@ -665,6 +665,8 @@ dfbshow /root/sipeed.png
 * https://www.sohu.com/a/659807701_121124373  
 * https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay  
 * https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay/blob/main/examples/TFT_eSPI_Clock/TFT_eSPI_Clock.ino  
+* T-QT, Anti-aliased_Clock, like TFT_eSPI_Clock  
+* https://github.com/Xinyuan-LilyGO/T-QT/blob/main/lib/TFT_eSPI/examples/Smooth%20Graphics/Anti-aliased_Clock/Anti-aliased_Clock.ino  
 
 ## e_ink_word_card_2in13, 单词卡  
 * https://github.com/zhushengji/e_ink_word_card_2in13  
