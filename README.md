@@ -688,3 +688,6 @@ dfbshow /root/sipeed.png
 
 ## ESP32_Display_development_board  
 * https://github.com/HazemBenAmmar/ESP32_Display_development_board  
+
+## rgb_panel  
+* https://github.com/espressif/esp-idf/tree/master/examples/peripherals/lcd/rgb_panel  
