@@ -706,7 +706,10 @@ dfbshow /root/sipeed.png
 ## T-RGB  
 * https://github.com/Xinyuan-LilyGO/T-RGB/blob/main/examples/factory/factory.ino  
 
-## EspMon  
+## EspMon, with openhardwaremonitor    
 * https://www.codeproject.com/Articles/5343526/EspMon-A-simple-PC-hardware-monitor-using-a-T-Disp  
 * https://github.com/codewitch-honey-crisis/EspMon_TDisplayS3/tree/master  
 * https://github.com/yltsa/EspMon_TDisplayS3--black-screen-/blob/main/src/ui.c  
+* https://github.com/codewitch-honey-crisis/EspMon/blob/master/EspMon.cs  
+* https://github.com/openhardwaremonitor/openhardwaremonitor  
+
