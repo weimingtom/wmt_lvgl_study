@@ -652,3 +652,11 @@ dfbshow /root/sipeed.png
 * (not good firmware for touch) mq-r-f133-rtl8189fs-5113-dns-uart0.zip  
 * (not good firmware, color strange) tina_d1-mangopi_mq_rgb800x480_gt9xx_uart0_20211214.img  
 * (touch screen) bought from mangopi, 5inch, 800x480, XJW050-GQ 2022.11.21, F500G4024-Q01, STC911-19, gt911  
+
+## Seeed_Arduino_RoundDisplay  
+* https://github.com/Bodmer/TFT_eSPI/blob/master/examples/320%20x%20240/TFT_Clock/TFT_Clock.ino  
+* https://github.com/Bodmer/TFT_eSPI/tree/master/examples/Sprite/Animated_dial  
+* https://wiki.seeedstudio.com/XIAO-RP2040-with-Arduino/#software-setup  
+* https://www.sohu.com/a/659807701_121124373  
+* https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay  
+* https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay/blob/main/examples/TFT_eSPI_Clock/TFT_eSPI_Clock.ino  
