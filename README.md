@@ -52,6 +52,9 @@ dino_twatch2020v3_v7_success.rar
 dino_twatch2020v3_v8_faster.rar  
 * 微雪代码演示背景图显示  
 watchdemo_twatchv3_v1_success.rar  
+* round clock from Seeed_Arduino_RoundDisplay  
+round_clock_twatchv3_v1.rar  
+https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay  
 
 ## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough (for NodeMCU-32S and st7789 ips 240x240)    
 * Board: ESP32 Dev Module  
