@@ -681,3 +681,7 @@ dfbshow /root/sipeed.png
 * https://github.com/TAMCTec/gt911-arduino  
 * 1.3版本demo.zip  
 
+## ESP32-S3-RGB-Panel, 86盒, wywy  
+* https://github.com/W00ng/ESP32-S3-RGB-Panel  
+* https://github.com/W00ng/ESP32-S3-RGB-Panel/blob/square-screen/examples/mp3_player/main/ui_audio.c  
+* https://github.com/W00ng/ESP32-S3-RGB-Panel/blob/square-screen/examples/lvgl_demo/main/main.c  
