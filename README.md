@@ -698,10 +698,15 @@ dfbshow /root/sipeed.png
 * https://forum.lvgl.io/t/lilygo-t-display-s3/10638  
 * https://github.com/Makerfabs/Makerfabs-ESP32-S3-Parallel-TFT-with-Touch/tree/main/example  
 
-## 
+## makerfabs  
 * https://www.makerfabs.com/esp32-s3-parallel-tft-with-touch-ili9488.html  
 * https://github.com/Makerfabs/Makerfabs-ESP32-S3-Parallel-TFT-with-Touch/tree/main/example  
 * https://github.com/radiosound-com/makerfabs-parallel-tft-lvgl-lgfx/tree/master/main  
 
 ## T-RGB  
 * https://github.com/Xinyuan-LilyGO/T-RGB/blob/main/examples/factory/factory.ino  
+
+## EspMon  
+* https://www.codeproject.com/Articles/5343526/EspMon-A-simple-PC-hardware-monitor-using-a-T-Disp  
+* https://github.com/codewitch-honey-crisis/EspMon_TDisplayS3/tree/master  
+* https://github.com/yltsa/EspMon_TDisplayS3--black-screen-/blob/main/src/ui.c  
