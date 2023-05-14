@@ -663,3 +663,13 @@ dfbshow /root/sipeed.png
 * https://www.sohu.com/a/659807701_121124373  
 * https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay  
 * https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay/blob/main/examples/TFT_eSPI_Clock/TFT_eSPI_Clock.ino  
+
+## e_ink_word_card_2in13, 单词卡  
+* https://github.com/zhushengji/e_ink_word_card_2in13  
+* https://www.bilibili.com/video/BV1SU4y1Z7PC/  
+* https://oshwhub.com/zhushengji/213-mo-shui-ping-dan-ci-ka-tf-ban-ben  
+
+## smart-word-esp32  
+* https://gitee.com/BenBuYikk/smart-word-esp32  
+
+
