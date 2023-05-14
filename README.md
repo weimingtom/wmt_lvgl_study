@@ -676,4 +676,8 @@ dfbshow /root/sipeed.png
 ## smart-word-esp32  
 * https://gitee.com/BenBuYikk/smart-word-esp32  
 
+## ESP32S3_86盒开发板_带触摸  
+* https://oshwhub.com/myzhazha/esp32s3_86-kai-fa-ban  
+* https://github.com/TAMCTec/gt911-arduino  
+* 1.3版本demo.zip  
 
