@@ -55,6 +55,8 @@ watchdemo_twatchv3_v1_success.rar
 * round clock from Seeed_Arduino_RoundDisplay  
 round_clock_twatchv3_v1.rar  
 https://github.com/Seeed-Studio/Seeed_Arduino_RoundDisplay  
+* LilyGO-T-Watch-Demo  
+https://github.com/lewisxhe/LilyGO-T-Watch-Demo  
 
 ## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough (for NodeMCU-32S and st7789 ips 240x240)    
 * Board: ESP32 Dev Module  
