@@ -696,3 +696,12 @@ dfbshow /root/sipeed.png
 ## esp32s3_lilygo_8bit_parallel_display_lvgl  
 * https://github.com/UsefulElectronics/esp32s3_lilygo_8bit_parallel_display_lvgl  
 * https://forum.lvgl.io/t/lilygo-t-display-s3/10638  
+* https://github.com/Makerfabs/Makerfabs-ESP32-S3-Parallel-TFT-with-Touch/tree/main/example  
+
+## 
+* https://www.makerfabs.com/esp32-s3-parallel-tft-with-touch-ili9488.html  
+* https://github.com/Makerfabs/Makerfabs-ESP32-S3-Parallel-TFT-with-Touch/tree/main/example  
+* https://github.com/radiosound-com/makerfabs-parallel-tft-lvgl-lgfx/tree/master/main  
+
+## T-RGB  
+* https://github.com/Xinyuan-LilyGO/T-RGB/blob/main/examples/factory/factory.ino  
