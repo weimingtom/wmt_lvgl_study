@@ -691,3 +691,7 @@ dfbshow /root/sipeed.png
 
 ## rgb_panel  
 * https://github.com/espressif/esp-idf/tree/master/examples/peripherals/lcd/rgb_panel  
+
+## esp32s3_lilygo_8bit_parallel_display_lvgl  
+* https://github.com/UsefulElectronics/esp32s3_lilygo_8bit_parallel_display_lvgl  
+* https://forum.lvgl.io/t/lilygo-t-display-s3/10638  
