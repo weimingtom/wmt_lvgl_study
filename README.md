@@ -499,12 +499,22 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 ## nes-lvgl-rtt  
 * https://github.com/greedyhao/nes-lvgl-rtt  
 
-## vocore2 sdl lvgl  
+## vocore2 sdl(?) lvgl  
 * https://github.com/Vonger/vocore2/tree/master/utils/lvgl-fb-demo  
 * https://vocore.io/screen.html  
 * http://vonger.cn/misc/screen/lvgldemo.zip  
 * http://vonger.cn/misc/screen/20200927.bin.xz  
 * https://vocore.io/screen-notouch.html  
+* see https://vocore.io/v2u.html  
+see https://vonger.cn/misc/screen/
+see https://vonger.cn/misc/screen/20200628.touch.bin.xz
+```
+1. use PC wireless connect to your VoCore hotspot, open browser view 192.168.1.1 or 192.168.61.1 (I use 61.1).  
+2. LuCI console using username: root, password: vocore,  
+3. select "System" -> "Backup/Flash Firmware"   
+4. uncheck 'keep settting', and "Flash Image". choose 20200628.touch.bin  
+5. after flashing, will auto start running /root/demo, it's a LVGL demo program  
+```
 
 ## minipad  
 * https://gitee.com/Jumping99/minipad  
