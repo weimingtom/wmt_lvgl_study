@@ -506,8 +506,8 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * http://vonger.cn/misc/screen/20200927.bin.xz  
 * https://vocore.io/screen-notouch.html  
 * see https://vocore.io/v2u.html  
-see https://vonger.cn/misc/screen/
-see https://vonger.cn/misc/screen/20200628.touch.bin.xz
+see https://vonger.cn/misc/screen/  
+see https://vonger.cn/misc/screen/20200628.touch.bin.xz  
 ```
 1. use PC wireless connect to your VoCore hotspot, open browser view 192.168.1.1 or 192.168.61.1 (I use 61.1).  
 2. LuCI console using username: root, password: vocore,  
