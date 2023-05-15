@@ -723,3 +723,5 @@ dfbshow /root/sipeed.png
 * https://github.com/codewitch-honey-crisis/EspMon/blob/master/EspMon.cs  
 * https://github.com/openhardwaremonitor/openhardwaremonitor  
 
+## widora spi screen    
+* https://widora.cn/ips  
