@@ -728,3 +728,13 @@ dfbshow /root/sipeed.png
 
 ## sipeed m1s  
 * https://blog.csdn.net/weixin_43810563/article/details/128276764  
+
+## retro-esp32  
+* https://github.com/retro-esp32  
+
+## esplay, esplay micro  
+* https://github.com/pebri86/esplay_micro_hardware  
+* https://github.com/pebri86/esplay-retro-emulation  
+* https://github.com/pebri86/esplay-base-firmware  
+* https://github.com/pebri86/esplay-micro-firmware-collections  
+
