@@ -725,3 +725,6 @@ dfbshow /root/sipeed.png
 
 ## widora spi screen    
 * https://widora.cn/ips  
+
+## sipeed m1s  
+* https://blog.csdn.net/weixin_43810563/article/details/128276764  
