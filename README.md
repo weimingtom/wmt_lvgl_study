@@ -742,6 +742,7 @@ dfbshow /root/sipeed.png
 ## EVUE  
 * https://scriptiot.gitee.io/evue_doc/#/zh-cn/evue_explore  
 * https://www.codercto.com/a/119710.html  
+* https://github.com/scriptiot/evm/releases/download/v2.0/evuesimulator-windows-v2.0.zip  
 
 ## (TODO) 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
 * https://www.bilibili.com/video/av757399659  
