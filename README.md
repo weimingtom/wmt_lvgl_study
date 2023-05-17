@@ -738,3 +738,10 @@ dfbshow /root/sipeed.png
 * https://github.com/pebri86/esplay-base-firmware  
 * https://github.com/pebri86/esplay-micro-firmware-collections  
 
+## EVUE  
+* https://scriptiot.gitee.io/evue_doc/#/zh-cn/evue_explore  
+* https://www.codercto.com/a/119710.html  
+
+## (TODO) OneWatch, STM32F411    
+* https://www.bilibili.com/video/av757399659  
+* search baidupan, OneWatch.rar  
