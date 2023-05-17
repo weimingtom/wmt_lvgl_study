@@ -752,3 +752,22 @@ dfbshow /root/sipeed.png
 ## (TODO) 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
 * https://www.bilibili.com/video/av757399659  
 * search baidupan, OneWatch.rar  
+
+## sinlinx v3s, 800x480 touch screen lvgl_demo       
+* lv_port_linux_frame_buffer_sinlinx_v3s_v1.tar.gz  
+```
+$ mkdir /mnt/mmc
+$ mount /dev/mmcblk0p1 /mnt/mmc
+$ ls /mnt/mmc
+$ cd /mnt/mmc
+$ ps
+$ kill -KILL 124
+$ dd if=/dev/zero of=/dev/fb0 bs=3200 count=480
+$ ./lvgl_demo_sinlinx_v3s
+```
+* (toolchain) sinlinx-v3s-sdk_20200824_buildroot_out_host.tar.gz  
+```
+$ cd sinlinx-v3s-sdk
+$ ./build.sh buildroot
+(then get toolchain under buildroot/out/host/bin)
+```
