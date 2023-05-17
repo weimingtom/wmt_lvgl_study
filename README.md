@@ -5,6 +5,7 @@ My LVGL study
 * 请有时间补充一下工具链信息  
 * 研究一下https://gitee.com/mFlying/ssd2xx-demo  
 * https://github.com/weimingtom/wmt_ai_study/blob/master/gui_001.md  
+* port OneWatch  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
@@ -742,6 +743,6 @@ dfbshow /root/sipeed.png
 * https://scriptiot.gitee.io/evue_doc/#/zh-cn/evue_explore  
 * https://www.codercto.com/a/119710.html  
 
-## (TODO) OneWatch, STM32F411    
+## (TODO) 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
 * https://www.bilibili.com/video/av757399659  
 * search baidupan, OneWatch.rar  
