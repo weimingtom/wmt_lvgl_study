@@ -126,6 +126,11 @@ idf.py flash
 ## Mangopi MQ or Sipeed LicheeRV Dock, Allwinner D1 / D1s / F133-A port  
 * https://gitee.com/RCSN/lv_port_linux_frame_buffer_mq_d1s  
 * lvgl_demo_v5.tar.gz  
+* (toolchain) Xuantie-900-gcc-linux-5.10.4-glibc-x86_64-V2.2.4-20211227.tar.gz  
+
+## LicheeRV 86 panel  
+* lv_port_linux_frame_buffer_licheerv_panel_v1.tar.gz  
+* (toolchain) Xuantie-900-gcc-linux-5.10.4-glibc-x86_64-V2.2.4-20211227.tar.gz  
 
 ## Mangopi MQ-Dual, Allwinner T113-S3  
 * lv_port_linux_frame_buffer_t113_v1.tar.gz  
