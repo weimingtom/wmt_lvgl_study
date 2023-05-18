@@ -789,6 +789,16 @@ $ ./build.sh buildroot
 需要把main函数里面的setup_ui放到lv_demo_widgets前面，注释掉lv_demo_widgets。
 我认为很流畅，非常顺手，当然这个板开发起来也不是很方便，要频繁切换tf卡（我是通过tf卡运行程序）
 ```
+* 工具链需要编译buildroot, 不要用external-toolchain那个工具链，会运行不了（c库so不对）  
+sinlinx-v3s-sdk_20200824_buildroot_out_host.tar.gz  
+```
+$ cd sinlinx-v3s-sdk
+$ ./build.sh buildroot
+(then get toolchain under buildroot/out/host/bin)
+ubuntu140432
+don't use this gcc: #CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/tools/external-toolchain/bin/arm-linux-gnueabi-gcc
+use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin/arm-buildroot-linux-gnueabihf-gcc
+```
 
 ## M1S Dock  
 * 评测    
