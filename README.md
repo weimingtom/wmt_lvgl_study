@@ -782,6 +782,13 @@ $ ./build.sh buildroot
 支持的接口多，但开发板较大；触摸屏效果不错，但跑Qt可能触摸不太流畅
 （可能因为控件小不好按），但LVGL是足够流畅
 ```
+* 图片轮播
+```
+用sinlinx v3s开发板运行lvgldemo的效果如下。触摸屏分辨率800，5寸，非ips，所以斜角会变色。
+代码不是我写的，来源于lv_port_linux_frame_buffer_mq_d1s，如果要显示图片那个效果，
+需要把main函数里面的setup_ui放到lv_demo_widgets前面，注释掉lv_demo_widgets。
+我认为很流畅，非常顺手，当然这个板开发起来也不是很方便，要频繁切换tf卡（我是通过tf卡运行程序）
+```
 
 ## M1S Dock  
 * 评测    
