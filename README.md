@@ -819,3 +819,6 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 ## STM32 N-Watch开源项目 浅谈原理（一）菜单及动画部分  
 * https://www.bilibili.com/video/BV1wT411o71X  
 * WATCH.zip  
+
+## Paul’s 3D Things  
+* https://open-smartwatch.github.io  
