@@ -320,6 +320,8 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## OpenWatch  
 * https://www.eetree.cn/project/detail/152  
 * https://github.com/Open-Smartwatch/open-smartwatch-os  
+* Paul’s 3D Things  
+* https://open-smartwatch.github.io  
 
 ## N|Watch  
 * https://github.com/Soysauce007/WatchX-Nwatch-stm32  
@@ -819,6 +821,3 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 ## STM32 N-Watch开源项目 浅谈原理（一）菜单及动画部分  
 * https://www.bilibili.com/video/BV1wT411o71X  
 * WATCH.zip  
-
-## Paul’s 3D Things  
-* https://open-smartwatch.github.io  
