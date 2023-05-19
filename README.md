@@ -309,6 +309,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 
 ## PineTime  
 * https://github.com/InfiniTimeOrg/InfiniTime  
+* https://wiki.pine64.org/index.php/PineTime  
 
 ## zepp os  
 * https://github.com/zepp-health/zeppos-samples  
