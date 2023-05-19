@@ -815,3 +815,7 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 （7）研究Linux可能不太好（驱动不全），因为K210已经可以跑Linux，
 而这个有多个烧录核心，可能不太有普遍研究价值（比较另类）
 ```
+
+## STM32 N-Watch开源项目 浅谈原理（一）菜单及动画部分  
+* https://www.bilibili.com/video/BV1wT411o71X  
+* WATCH.zip  
