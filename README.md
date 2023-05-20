@@ -752,7 +752,7 @@ dfbshow /root/sipeed.png
 * https://www.codercto.com/a/119710.html  
 * https://github.com/scriptiot/evm/releases/download/v2.0/evuesimulator-windows-v2.0.zip  
 
-## (TODO) 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
+## 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
 * https://www.bilibili.com/video/av757399659  
 * search baidupan, OneWatch.rar  
 * nucleo f411re: OneWatch_Soft_f411re_v1.rar  
