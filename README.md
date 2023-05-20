@@ -525,6 +525,29 @@ see https://vonger.cn/misc/screen/20200628.touch.bin.xz
 5. after flashing, will auto start running /root/demo, it's a LVGL demo program  
 ```
 
+## (old record) vocore2 lvgl demo, not work (see upper)      
+* 5寸屏用v2u(vocore2开发板白色立方体)没跑通，可能要自己编译或者分辨率没对上，反正没点亮  
+* toolchain.tar.bz2  
+* lvgldemo.zip  
+* fbusb.vocore2.ko  
+* vodisp和lvgldemo无法运行, vodisp提示libusb so缺少, demo运行没有显示（分辨率不对？）      
+* 解决  
+```
+我搞明白怎么用vocore2运行LVGL例子和驱动usb屏幕，之前失败其实是因为fbusb.ko的
+驱动程序不兼容（因为需要和内核版本完全一样才能正确运行），
+所以要么重新编译内核或者重新编译驱动程序。然后我想起其实可以通过wifi来刷固件，
+然后找了一下，发现有个touch固件自带fbusb驱动和LVGL，刷完就可以看到LVGL例子
+（开机启动，不需要insmod）。具体效果略，因为触摸比较卡顿，可能和屏幕速度
+或者mt7628主频低有关，也许作者不想明说
+
+（更旧的记录）
+vocore的LVGL示例代码，对比起mangopi mq的LVGL示例代码，似乎都是7.0的lvgldemo，
+但改动较大，有些代码莫名地改了，跟原版不同，但好处是可以似乎可以隐藏控制台光标。
+至今没办法跑在vocore2开发板方块上，但可以通过修改（一些修改）跑在荔枝派zero上，
+所以如果想省事，建议还是用mq的lvgldemo去改，vocore版的奇怪改动太多了
+```
+
+
 ## minipad  
 * https://gitee.com/Jumping99/minipad  
 * https://www.bilibili.com/video/BV1Yo4y1w7qs  
@@ -661,13 +684,6 @@ dfbshow /root/sipeed.png
 * 屏幕扩展板，虽然有触摸口，都不支持触摸屏（最好用mangopi或者licheerv 86盒）  
 * 注意屏线都是金属向上  
 * (burn tools) PhoenixCard.zip, V4.2.8    
-
-## vocore2 lvgl demo, not work    
-* 5寸屏用v2u(vocore2开发板白色立方体)没跑通，可能要自己编译或者分辨率没对上，反正没点亮  
-* toolchain.tar.bz2  
-* lvgldemo.zip  
-* fbusb.vocore2.ko  
-* vodisp和lvgldemo无法运行, vodisp提示libusb so缺少, demo运行没有显示（分辨率不对？）      
 
 ## (touch screen good) 芒果派MQ（非R版）
 * (firmware) tina_d1-mangopi_mq_rgb800x480_gt9xx_uart0_可能修复了某些显示屏问题_2021-12-24.7z  
