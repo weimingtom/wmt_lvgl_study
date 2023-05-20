@@ -755,6 +755,8 @@ dfbshow /root/sipeed.png
 ## (TODO) 学了3天的littleVGL做了一个手表, OneWatch, STM32F411    
 * https://www.bilibili.com/video/av757399659  
 * search baidupan, OneWatch.rar  
+* nucleo f411re: OneWatch_Soft_f411re_v1.rar  
+* f411ceu6: OneWatch_Soft_v1_success_缺面包板接线图.rar  
 
 ## sinlinx v3s, 800x480 touch screen lvgl_demo       
 * lv_port_linux_frame_buffer_sinlinx_v3s_v1.tar.gz  
