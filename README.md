@@ -434,8 +434,11 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 ## 副屏制作, HellGateMonitor    
 * https://github.com/Hotakus/HellGateMonitor  
 
-## 3.5寸IPS TYPEC副屏机箱  
+## (TODO) 3.5寸IPS TYPEC副屏机箱  
 * Wall.rar  
+* OpenHardwareMonitor  
+* https://github.com/openhardwaremonitor/openhardwaremonitor  
+* (TODO) 做一个类似的可以传输像素的上位机  
 
 ## ESP32-S2 副屏  
 * https://github.com/chuanjinpang/win10_idd_xfz1986_usb_graphic_driver_display  
