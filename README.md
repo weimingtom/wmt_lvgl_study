@@ -857,3 +857,12 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 * https://github.com/SMotlaq/open-watch    
 * https://github.com/SMotlaq/open-watch/blob/master/open-watch-firmware/my_watch_software/Src/main.c  
 
+## 富芮坤fr8008gp lvgl  
+* https://blog.csdn.net/cheng___yi/article/details/128633517  
+
+## OV-Watch  
+* https://github.com/No-Chicken/OV-Watch_V1.1  
+
+## haasui  
+* https://haas.iot.aliyun.com/haasui-doc/demo-clock  
+
