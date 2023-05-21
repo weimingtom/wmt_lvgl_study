@@ -885,6 +885,7 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 * https://www.cranksoftware.com/platforms/demo-images/nxp  
 * https://community.nxp.com/t5/i-MX-RT/Smartwatch-GUI-Demo-Images-for-the-NXP-i-MX-RT500/m-p/1305591  
 
-
+## 20 Beautiful Examples of SmartWatch UI  
+* https://inspirationfeed.com/smartwatches/   
 
 
