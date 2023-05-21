@@ -73,6 +73,8 @@ https://github.com/lewisxhe/LilyGO-T-Watch-Demo
 * 1.33寸ESP12F-8266创意智能复古迷你手工麦金塔WIFI桌面天气时钟  
 * search baidupan, A MIni 资料  
 * SmallDesktopDisplay  
+* https://github.com/chuxin520922/SmallDesktopDisplay  
+* https://github.com/SmallDesktopDisplay-team/SmallDesktopDisplay  
 
 ## arduino 旋转太空人 天气时钟源码来啦 esp8266  
 * SmallDesktopDisplay ???  
