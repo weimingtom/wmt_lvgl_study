@@ -75,6 +75,7 @@ https://github.com/lewisxhe/LilyGO-T-Watch-Demo
 * SmallDesktopDisplay  
 * https://github.com/chuxin520922/SmallDesktopDisplay  
 * https://github.com/SmallDesktopDisplay-team/SmallDesktopDisplay  
+* https://github.com/yangwu91/SmallDesktopDisplay-ESP32  
 
 ## arduino 旋转太空人 天气时钟源码来啦 esp8266  
 * SmallDesktopDisplay ???  
