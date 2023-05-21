@@ -865,4 +865,26 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 
 ## haasui  
 * https://haas.iot.aliyun.com/haasui-doc/demo-clock  
+* https://gitee.com/yocop/smart_panel_lvgl  
+
+## LCDwiki 1.28inch IPS Module  
+* http://www.lcdwiki.com/zh/1.28inch_IPS_Module  
+* https://robot-jp.com/wiki/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8  
+
+## Music Player  
+* https://www.instructables.com/Design-Music-Player-UI-With-LVGL/  
+
+## 瑞萨 renesas DA1470 watch demo  
+* https://github.com/dialog-semiconductor/BLE_SDK10_DA1470x_examples  
+* https://github.com/dialog-semiconductor/BLE_SDK10_DA1470x_examples/tree/main/features/watch_demo_lvgl/ui  
+* https://lpccs-docs.renesas.com/DA1470x/UM-B-155_DA1470x-Graphics-Framework-GUI/8-Watch%20Demo%20Application/watch_demo.html  
+
+## NXP RT595 watch demo  
+* https://www.nxp.com/video/smart-watch-demo-running-on-an-i-mx-rt595-evk:SMARTWDEMO  
+* https://info.cranksoftware.com/platforms/demo-images/nxp/imx-rt500  
+* https://www.cranksoftware.com/platforms/demo-images/nxp  
+* https://community.nxp.com/t5/i-MX-RT/Smartwatch-GUI-Demo-Images-for-the-NXP-i-MX-RT500/m-p/1305591  
+
+
+
 
