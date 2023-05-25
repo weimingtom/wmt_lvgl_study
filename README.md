@@ -893,3 +893,5 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 * https://www.makerfabs.com/esp32-s3-round-spi-tft-with-touch-1-28-inch.html  
 * https://www.makerfabs.com/open-smartwatch.html  
 
+## M5Stampラウンド液晶モジュール  
+* https://github.com/urukakanko/M5Stamp_round_lcd  
