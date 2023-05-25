@@ -888,4 +888,8 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 ## 20 Beautiful Examples of SmartWatch UI  
 * https://inspirationfeed.com/smartwatches/   
 
+## Makerfabs, ESP32-S3 Round SPI 1.28" TFT with Touch  
+* https://github.com/Makerfabs/ESP32-S3-Round-SPI-TFT-with-Touch-1.28/blob/main/example/clock/clock.ino  
+* https://www.makerfabs.com/esp32-s3-round-spi-tft-with-touch-1-28-inch.html  
+* https://www.makerfabs.com/open-smartwatch.html  
 
