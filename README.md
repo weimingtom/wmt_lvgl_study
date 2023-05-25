@@ -901,3 +901,6 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 
 ## ラウンド液晶モジュール for XIAO RP2040（組立キット）  
 * https://github.com/urukakanko/XIAO_Round_LCD/blob/main/xiao2040_round_clockSample/xiao2040_round_clockSample.ino  
+
+## ESP32 ScreenShotReceiver  
+* https://github.com/lovyan03/ESP32_ScreenShotReceiver  
