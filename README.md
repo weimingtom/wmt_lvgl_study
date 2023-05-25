@@ -895,3 +895,6 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 
 ## M5Stampラウンド液晶モジュール  
 * https://github.com/urukakanko/M5Stamp_round_lcd  
+
+## RsPicoラウンド液晶モジュール  
+* https://github.com/urukakanko/RsPico_round_lcd/blob/main/RsPico_round_lcd_ClockSample/RsPico_round_lcd_ClockSample.ino  
