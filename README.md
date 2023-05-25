@@ -898,3 +898,6 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 
 ## RsPicoラウンド液晶モジュール  
 * https://github.com/urukakanko/RsPico_round_lcd/blob/main/RsPico_round_lcd_ClockSample/RsPico_round_lcd_ClockSample.ino  
+
+## ラウンド液晶モジュール for XIAO RP2040（組立キット）  
+* https://github.com/urukakanko/XIAO_Round_LCD/blob/main/xiao2040_round_clockSample/xiao2040_round_clockSample.ino  
