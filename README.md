@@ -907,3 +907,9 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 
 ## NesCat  
 * https://github.com/stivcen01/NesCat1.0_ESP32/tree/main/EXAMPLES/_NESemulator  
+
+## gitee  
+* https://gitee.com/Xh1024/smart-watch-dial/blob/master/watch/watch.7z  
+LVGL windows mingw  
+* https://gitee.com/rieo/xzx_stm32/blob/master/code/jiaju/USER/main.c  
+* https://gitee.com/serendipityO_O/watch/blob/master/健康监测智能手表（STM32F4主控）/Future_Watch_V2.0省赛.zip  
