@@ -913,3 +913,14 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 LVGL windows mingw  
 * https://gitee.com/rieo/xzx_stm32/blob/master/code/jiaju/USER/main.c  
 * https://gitee.com/serendipityO_O/watch/blob/master/健康监测智能手表（STM32F4主控）/Future_Watch_V2.0省赛.zip  
+
+## Casio F91-W watch    
+* https://pars41.github.io/casio-digital-watch/  
+* https://github.com/kjs452/casio  
+* https://github.com/adamfratino/casio-watch  
+* https://github.com/Interaction-Magic/casio-watch-prototyper  
+* https://watch.interactionmagic.com  
+* Sensor Watch, A hackable ARM Cortex M0+ upgrade for a classic Casio wristwatch  
+https://www.crowdsupply.com/oddly-specific-objects/sensor-watch  
+
+
