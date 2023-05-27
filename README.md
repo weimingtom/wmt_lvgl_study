@@ -922,5 +922,6 @@ LVGL windows mingw
 * https://watch.interactionmagic.com  
 * Sensor Watch, A hackable ARM Cortex M0+ upgrade for a classic Casio wristwatch  
 https://www.crowdsupply.com/oddly-specific-objects/sensor-watch  
+https://github.com/joeycastillo/Sensor-Watch  
 
 
