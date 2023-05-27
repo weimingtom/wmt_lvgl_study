@@ -924,4 +924,9 @@ LVGL windows mingw
 https://www.crowdsupply.com/oddly-specific-objects/sensor-watch  
 https://github.com/joeycastillo/Sensor-Watch  
 
+## 百问网, SetTime   
+* https://gitee.com/weidongshan/lv_100ask_linux_desktop/blob/master/lv_100ask_app/src/imx6ull_app/imx6ull_set_time/src/set_time.c  
+* 【lvgl项目开发】IMX6ULL Linux LVGL GUI V2.0效果演示，基于lvgl8.1开源并且有lvgl教程 littleVGL  
+https://www.bilibili.com/video/BV1nT4y1R7rz  
+* https://github.com/100askTeam/lv_100ask_linux_desktop/blob/master/lv_100ask_app/src/imx6ull_app/imx6ull_set_time/src/set_time.c  
 
