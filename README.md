@@ -930,3 +930,6 @@ https://github.com/joeycastillo/Sensor-Watch
 https://www.bilibili.com/video/BV1nT4y1R7rz  
 * https://github.com/100askTeam/lv_100ask_linux_desktop/blob/master/lv_100ask_app/src/imx6ull_app/imx6ull_set_time/src/set_time.c  
 
+## fr5086  
+* https://gitee.com/freqchip/fr5080-dsp/blob/master/fr5080_user_code_xip/src/components/module/gui/lv_gui_app/lv_obj_test.c  
+* https://gitee.com/freqchip/fr5080-dsp/blob/master/fr5080_user_code_xip/src/example/main.c  
