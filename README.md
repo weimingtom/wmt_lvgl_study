@@ -933,3 +933,9 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## fr5086  
 * https://gitee.com/freqchip/fr5080-dsp/blob/master/fr5080_user_code_xip/src/components/module/gui/lv_gui_app/lv_obj_test.c  
 * https://gitee.com/freqchip/fr5080-dsp/blob/master/fr5080_user_code_xip/src/example/main.c  
+
+## Android  
+* https://github.com/dodola/BubbleCloudView  
+
+## HTML5  
+* https://github.com/wanlong1234567/html5-apple-watch-clock-face  
