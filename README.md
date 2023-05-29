@@ -853,9 +853,10 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 ## Gui Guider  
 * GUI-Guider-Projects.7z  
 
-## (TODO) open-watch  
+## open-watch  
 * https://github.com/SMotlaq/open-watch    
 * https://github.com/SMotlaq/open-watch/blob/master/open-watch-firmware/my_watch_software/Src/main.c  
+* openwatch_v5_run_success.rar  
 
 ## 富芮坤fr8008gp lvgl  
 * https://blog.csdn.net/cheng___yi/article/details/128633517  
