@@ -940,3 +940,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## HTML5  
 * https://github.com/wanlong1234567/html5-apple-watch-clock-face  
+
+## esp8266-smartwatch  
+* https://github.com/Jeija/esp8266-smartwatch  
