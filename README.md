@@ -947,3 +947,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## sma-q2-oss  
 * https://emeryth.net/sma-q2-open-source-smartwatch/  
 * https://github.com/Emeryth/sma-q2-oss  
+
+## lempo_smart_watch  
+* https://github.com/elmot/lempo_smart_watch  
