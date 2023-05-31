@@ -943,3 +943,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## esp8266-smartwatch  
 * https://github.com/Jeija/esp8266-smartwatch  
+
+## sma-q2-oss  
+* https://emeryth.net/sma-q2-open-source-smartwatch/  
+* https://github.com/Emeryth/sma-q2-oss  
