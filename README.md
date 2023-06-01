@@ -80,6 +80,9 @@ https://github.com/lewisxhe/LilyGO-T-Watch-Demo
 ## arduino 旋转太空人 天气时钟源码来啦 esp8266  
 * SmallDesktopDisplay ???  
 
+## esp32-weather-clock-idf, like SDD  
+* https://github.com/amwyyyy/esp32-weather-clock-idf  
+
 ## Windows VS2013 port (with FastFireFrame)    
 * lvgldemo_501_v5_input_pass.rar  
 * lvgldemo_530_v2_run_success.rar  
