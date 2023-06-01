@@ -950,3 +950,10 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## lempo_smart_watch  
 * https://github.com/elmot/lempo_smart_watch  
+
+## mutantW_V1  
+* https://mutantc.gitlab.io/mutantW_V1.html  
+* https://gitlab.com/mutantC/mutantw-v1/-/tree/main/  
+
+## Bangle.js 2 is a Hackable, Open Source Smartwatch  
+* https://www.omgubuntu.co.uk/2021/09/bangle-js-2-is-a-hackable-open-source-smartwatch-that-runs-javascript  
