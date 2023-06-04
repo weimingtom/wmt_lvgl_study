@@ -973,3 +973,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * 四合一健康智能手表  
 * https://www.fengke.club/goods/96  
 
+## mbed, smart watch  
+* https://os.mbed.com/users/kewlsrini/notebook/smart-watch/  
+* https://os.mbed.com/users/nsloth/code/Smart_Watch_4180_Final_Design//file/65e1d74a137c/main.cpp/  
