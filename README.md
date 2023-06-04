@@ -982,3 +982,11 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://download.csdn.net/download/ZCY5202015/13747537  
 * 蓝牙DA14580智能手环开发教程  
 * https://download.csdn.net/download/fengkesz/9861218  
+
+## 【开源】ESP32智能手环  
+* https://www.bilibili.com/video/BV1it4y1s7AY  
+* https://github.com/lpeydb/ESP32-SmartBand  
+* https://gitee.com/lpeydb/ESP32-SmartBand  
+
+## 自制ESP32智能手表Open Smartwatch  
+* https://www.bilibili.com/video/BV14F411g7V3  
