@@ -995,3 +995,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## Let's make Smartwatch ESP32  
 * https://www.bilibili.com/video/BV1EA4y1Z7To  
 * https://github.com/VolosR/watchESP  
+
+## SmartBracelet - 拆除便宜的Dialog DA14580智能手环  
+* https://github.com/melka/SmartBracelet  
+* https://www.nuomiphp.com/github/zh/600afe4949768d2c76177926.html  
