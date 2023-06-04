@@ -968,3 +968,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## 【开源教程8】疯壳·开源蓝牙心率防水运动手环-三轴计步伐  
 * https://blog.csdn.net/efans_Mike/article/details/126545676  
+* https://www.bilibili.com/video/av845131734/  
+* 【开源】疯壳BLE蓝牙DA14580开发板1-1整板测试  
+
