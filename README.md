@@ -961,3 +961,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## Bangle.js 2 is a Hackable, Open Source Smartwatch  
 * https://www.omgubuntu.co.uk/2021/09/bangle-js-2-is-a-hackable-open-source-smartwatch-that-runs-javascript  
+
+## 【开源教程8】疯壳·开源蓝牙心率防水运动手环-三轴计步伐  
+* https://blog.csdn.net/efans_Mike/article/details/126545676  
