@@ -664,6 +664,7 @@ STM32F413-DISCOVERY
 ## ZSWatch  
 * https://github.com/jakkra/ZSWatch  
 * (?) https://github.com/u-blox/ubxlib  
+* nrf52833 dk, ncs 2.2.0, ZSWatch_v1_v2_run_success.rar  
 
 ## waveshare 1.28 inch watch, demo bg picture    
 * https://www.waveshare.com/wiki/RP2040-LCD-1.28  
