@@ -990,6 +990,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## 自制ESP32智能手表Open Smartwatch  
 * https://www.bilibili.com/video/BV14F411g7V3  
+* https://github.com/Open-Smartwatch/open-smartwatch-os  
 
 ## Let's make Smartwatch ESP32  
 * https://www.bilibili.com/video/BV1EA4y1Z7To  
