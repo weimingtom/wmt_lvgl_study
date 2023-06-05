@@ -1003,6 +1003,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## 21ic, 【N32G430开发板试用】智能手表功能演示样机  
 * https://bbs.21ic.com/icview-3241354-1-1.html  
 
-## FarSightWatch  
+## FarSightWatch, JZ4775    
 * http://download.hqyj.com/download/pdf/Android_DIY.pdf  
 * http://www.fsdev.com.cn/products/index3.htm  
