@@ -999,3 +999,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## SmartBracelet - 拆除便宜的Dialog DA14580智能手环  
 * https://github.com/melka/SmartBracelet  
 * https://www.nuomiphp.com/github/zh/600afe4949768d2c76177926.html  
+
+## 21ic, 【N32G430开发板试用】智能手表功能演示样机  
+* https://bbs.21ic.com/icview-3241354-1-1.html  
