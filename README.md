@@ -973,15 +973,18 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * 四合一健康智能手表  
 * https://www.fengke.club/goods/96  
 
-## mbed, smart watch  
-* https://os.mbed.com/users/kewlsrini/notebook/smart-watch/  
-* https://os.mbed.com/users/nsloth/code/Smart_Watch_4180_Final_Design//file/65e1d74a137c/main.cpp/  
-
 ## DA14580, csdn  
 * 鬼斧神工智能穿戴开源制作—可编程手环，可实现任何功能  
 * https://download.csdn.net/download/ZCY5202015/13747537  
 * 蓝牙DA14580智能手环开发教程  
 * https://download.csdn.net/download/fengkesz/9861218  
+
+## DA14580  
+* https://www.renesas.com/us/en/general-parts/da14580-smartbond-bluetooth-low-energy-42-soc#design_development   
+
+## mbed, smart watch  
+* https://os.mbed.com/users/kewlsrini/notebook/smart-watch/  
+* https://os.mbed.com/users/nsloth/code/Smart_Watch_4180_Final_Design//file/65e1d74a137c/main.cpp/  
 
 ## 【开源】ESP32智能手环  
 * https://www.bilibili.com/video/BV1it4y1s7AY  
