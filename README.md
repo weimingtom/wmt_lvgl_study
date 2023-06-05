@@ -981,6 +981,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## DA14580  
 * https://www.renesas.com/us/en/general-parts/da14580-smartbond-bluetooth-low-energy-42-soc#design_development   
+* https://github.com/dialog-semiconductor/BLE_SDK6_examples  
 
 ## mbed, smart watch  
 * https://os.mbed.com/users/kewlsrini/notebook/smart-watch/  
