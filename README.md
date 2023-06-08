@@ -1023,4 +1023,5 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## 智能手环(STM32F411)  
 * https://github.com/XR-bin/STM32-Practice_project/blob/master/智能手环/智能手环(STM32F411)/USER/test.c  
 
-## 
+## 姿态手环  
+* https://github.com/ActivePeter/2020_TI_competion_question_A/tree/main/%E5%A7%BF%E6%80%81%E6%89%8B%E7%8E%AF  
