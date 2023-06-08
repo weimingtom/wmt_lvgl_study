@@ -1019,3 +1019,8 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## cherrypi  
 * http://wiki.lcmaker.com/index.php?title=首页  
+
+## 智能手环(STM32F411)  
+* https://github.com/XR-bin/STM32-Practice_project/blob/master/智能手环/智能手环(STM32F411)/USER/test.c  
+
+## 
