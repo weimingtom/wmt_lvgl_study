@@ -1013,3 +1013,9 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## SmartBand, STM32L053  
 * https://github.com/westzhao13/SmartBand  
+
+## duband  
+* https://github.com/baiduwearable/duband  
+
+## cherrypi  
+* http://wiki.lcmaker.com/index.php?title=首页  
