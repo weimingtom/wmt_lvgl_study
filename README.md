@@ -1016,6 +1016,9 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## duband  
 * https://github.com/baiduwearable/duband  
+* 百度智能手环开源项目资料.rar  
+* 百度智能手环方案开源(含源码，原理图，APP，通信协议等)  
+* https://blog.csdn.net/whik1194/article/details/85270812  
 
 ## cherrypi  
 * http://wiki.lcmaker.com/index.php?title=首页  
