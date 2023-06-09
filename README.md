@@ -1029,6 +1029,8 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## WatchX  
 * https://github.com/FASTSHIFT/WatchX  
 * https://github.com/FASTSHIFT/WatchX-II  
+* https://gitee.com/laocaile/WatchX  
 
 ## Chronio  
 * https://github.com/CoretechR/Chronio  
+
