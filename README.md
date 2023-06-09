@@ -1025,3 +1025,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## 姿态手环  
 * https://github.com/ActivePeter/2020_TI_competion_question_A/tree/main/%E5%A7%BF%E6%80%81%E6%89%8B%E7%8E%AF  
+
+## WatchX  
+* https://github.com/FASTSHIFT/WatchX  
+* https://github.com/FASTSHIFT/WatchX-II  
