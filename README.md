@@ -1039,3 +1039,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## Twantch  
 * https://github.com/tianxiaohuahua/Twantch  
+
+## LilyGo-HeartRate-Kit  
+* https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit  
