@@ -1047,3 +1047,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://github.com/Myzhazha/ESP-32_GC9A01_JPG  
 * https://github.com/Myzhazha/ESP-32_GC9A01_JPG/tree/main/Clock_Demo/SmallDesktopDisplay  
 
+## esp32 smart watch  
+* https://github.com/Minergabe/TTGO-ESP32-T-display-smart-watch  
+* https://github.com/Bellafaire/ESP32-Smart-Watch  
