@@ -1042,3 +1042,8 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## LilyGo-HeartRate-Kit  
 * https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit  
+
+## ESP-32_GC9A01_JPG  
+* https://github.com/Myzhazha/ESP-32_GC9A01_JPG  
+* https://github.com/Myzhazha/ESP-32_GC9A01_JPG/tree/main/Clock_Demo/SmallDesktopDisplay  
+
