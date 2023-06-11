@@ -1062,3 +1062,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## 杰理, AC701N手表开发板    
 * BR28-watch-SDK, ac701n_watch_release_v1.0.0    
 * https://gitee.com/Jieli-Tech/fw-AC79_AIoT_SDK/tree/release/AC79NN_SDK_V1.1.0/ui_project  
+
+## esp8266 deauther  
+* https://github.com/SpacehuhnTech/esp8266_deauther/releases  
