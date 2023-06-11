@@ -1065,3 +1065,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## esp8266 deauther  
 * https://github.com/SpacehuhnTech/esp8266_deauther/releases  
+* https://dstike.com/collections/all/deauther#MainContent  
+* https://deauther.com/docs/buy  
+
