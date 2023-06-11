@@ -1052,3 +1052,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://download.csdn.net/download/tianqiquan/87740944  
 * https://github.com/Minergabe/TTGO-ESP32-T-display-smart-watch  
 * https://github.com/Bellafaire/ESP32-Smart-Watch  
+
+## phase, nrf52840  
+* https://github.com/carlfriess/phase  
