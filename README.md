@@ -1055,3 +1055,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## phase, nrf52840  
 * https://github.com/carlfriess/phase  
+
+## 杰理, AC701N手表开发板    
+* BR28-watch-SDK  
+* https://gitee.com/Jieli-Tech/fw-AC79_AIoT_SDK/tree/release/AC79NN_SDK_V1.1.0/ui_project  
