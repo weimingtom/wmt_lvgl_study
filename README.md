@@ -868,6 +868,8 @@ use this gcc: CC = /home/wmt/work_sinlinx/sinlinx-v3s-sdk/buildroot/out/host/bin
 
 ## 富芮坤fr8008gp lvgl  
 * https://blog.csdn.net/cheng___yi/article/details/128633517  
+* fr8000-master_v1_run_lvgl_success.rar  
+* fr8000_lvgl_watch_240x280-master_v1_run_success.rar  
 
 ## OV-Watch  
 * https://github.com/No-Chicken/OV-Watch_V1.1  
