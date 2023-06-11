@@ -1067,4 +1067,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://github.com/SpacehuhnTech/esp8266_deauther/releases  
 * https://dstike.com/collections/all/deauther#MainContent  
 * https://deauther.com/docs/buy  
+* https://blog.lanweihong.com/posts/18040/  
+
 
