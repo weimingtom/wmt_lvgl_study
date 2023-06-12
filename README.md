@@ -1069,4 +1069,9 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://deauther.com/docs/buy  
 * https://blog.lanweihong.com/posts/18040/  
 
+## 矽创ST77903使用DEMO，环境STM32H743 + RT-THREAD + LVGL + QSPI + ST77903  
+* st77903_demo.7z\st77903_demo\stm32h743-sitronix-qspi\applications\lvgl  
+* https://download.csdn.net/download/sainty07/87263609  
+* https://blog.csdn.net/sainty07/article/details/115422444  
+* https://blog.csdn.net/sainty07/article/details/115428136  
 
