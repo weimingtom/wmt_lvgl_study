@@ -7,6 +7,7 @@ My LVGL study
 * https://github.com/weimingtom/wmt_ai_study/blob/master/gui_001.md  
 * port OneWatch  
 * st77903_demo.7z  
+* https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789    
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
@@ -1078,7 +1079,8 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://blog.csdn.net/sainty07/article/details/115428136  
 * https://github.com/wirano/st77903_demo  
 
-## ESP32-C3-LCDkit, 圆形屏, 1.28 inch, 240 x 240   
+## (TODO) ESP32-C3-LCDkit, 圆形屏, 1.28 inch, 240 x 240   
 * https://docs.espressif.com/projects/espressif-esp-dev-kits/zh_CN/latest/esp32c3/esp32-c3-lcdkit/user_guide.html  
 * https://github.com/espressif/esp-dev-kits/tree/master/esp32-c3-lcdkit/examples/knob_panel
-* https://www.bilibili.com/read/cv22603801
+* https://www.bilibili.com/read/cv22603801  
+* https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789  
