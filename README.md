@@ -1078,3 +1078,5 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://blog.csdn.net/sainty07/article/details/115428136  
 * https://github.com/wirano/st77903_demo  
 
+## ESP32-C3-LCDkit, 圆形屏   
+* https://docs.espressif.com/projects/espressif-esp-dev-kits/zh_CN/latest/esp32c3/esp32-c3-lcdkit/user_guide.html  
