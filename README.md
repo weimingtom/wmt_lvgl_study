@@ -1097,3 +1097,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## AsteroidOS  
 * https://github.com/AsteroidOS/asteroid  
 * http://asteroidos.org/  
+
+## ESP32-2424S012 development board, LVGL smartwatch  
+* 1.28inch_ESP32-2424S012.zip  
+* 1.28inch_ESP32-2424S012.zip\1.28inch_ESP32-2424S012\1-Demo\Demo_Arduino\1_1_Factory_samples\Factory_samples  
