@@ -8,6 +8,7 @@ My LVGL study
 * port OneWatch  
 * st77903_demo.7z  
 * https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789    
+* OLED-Menu.rar   
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
@@ -1084,3 +1085,15 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://github.com/espressif/esp-dev-kits/tree/master/esp32-c3-lcdkit/examples/knob_panel
 * https://www.bilibili.com/read/cv22603801  
 * https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789  
+
+## (TODO) 基于STM32的OLED多级菜单项目（简化版智能手表）  
+* https://blog.csdn.net/black_sneak/article/details/126442559  
+* https://download.csdn.net/download/black_sneak/86469358  
+* OLED-Menu.rar  
+
+## 健康手表  
+* https://github.com/Nuozhihui/Health_watch_STM32  
+
+## AsteroidOS  
+* https://github.com/AsteroidOS/asteroid  
+* http://asteroidos.org/  
