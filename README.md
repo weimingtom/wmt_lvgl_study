@@ -1089,7 +1089,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## (TODO) 基于STM32的OLED多级菜单项目（简化版智能手表）  
 * https://blog.csdn.net/black_sneak/article/details/126442559  
 * https://download.csdn.net/download/black_sneak/86469358  
-* OLED-Menu.rar  
+* OLED-Menu.rar, dino game    
 
 ## 健康手表  
 * https://github.com/Nuozhihui/Health_watch_STM32  
