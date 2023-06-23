@@ -8,7 +8,8 @@ My LVGL study
 * port OneWatch  
 * st77903_demo.7z  
 * https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789    
-* OLED-Menu.rar   
+* OLED-Menu.rar
+* lvgldemo_android_v2.rar  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
