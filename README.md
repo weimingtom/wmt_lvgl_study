@@ -9,7 +9,9 @@ My LVGL study
 * st77903_demo.7z  
 * https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789    
 * OLED-Menu.rar
-* lvgldemo_android_v2.rar  
+* lvgldemo_android_v2.rar
+SDL1 android ref: VideoProject_v2_play_audio_success.7z
+SDL? ref: VideoProject.rar  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
@@ -128,7 +130,10 @@ idf.py flash
 * https://github.com/FCam1/SC01_Plus_HMI_example  
 
 ## Android port  
-* (NOT DONE) search baidupan, lvgldemo_android_v2.rar  
+* (NOT DONE) search baidupan, lvgldemo_android_v2.rar
+* ref:
+SDL1 android ref: VideoProject_v2_play_audio_success.7z
+SDL? ref: VideoProject.rar  
 
 ## csky port  
 * csky_v2_success.tar.gz  
