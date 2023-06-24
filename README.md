@@ -12,7 +12,8 @@ My LVGL study
 * lvgldemo_android_v2.rar
 SDL1 android ref: VideoProject_v2_play_audio_success.7z
 SDL? ref: VideoProject.rar
-* https://github.com/paulsykes/Pinetime  
+* https://github.com/paulsykes/Pinetime
+* https://github.com/ck-telecom/pinetime  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
@@ -326,10 +327,11 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## (IMP) PineTime  
 * https://github.com/InfiniTimeOrg/InfiniTime  
 * https://wiki.pine64.org/index.php/PineTime
-* (old version, with preview photo) https://github.com/paulsykes/Pinetime
+* (IMP, old version, with preview photo) https://github.com/paulsykes/Pinetime
 * https://www.pine64.org/pinetime/
-* https://github.com/arteeh/pinetime
-* https://github.com/search?q=app_heartrate&type=code  
+* (IMP, UI design) https://github.com/arteeh/pinetime
+* https://github.com/search?q=app_heartrate&type=code
+* (IMP, zephyr) https://github.com/ck-telecom/pinetime  
 
 ## zepp os  
 * https://github.com/zepp-health/zeppos-samples  
