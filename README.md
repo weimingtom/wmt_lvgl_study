@@ -325,7 +325,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 ## (IMP) PineTime  
 * https://github.com/InfiniTimeOrg/InfiniTime  
 * https://wiki.pine64.org/index.php/PineTime
-* (old version, with preview photo) https://github.com/InfiniTimeOrg/InfiniTime  
+* (old version, with preview photo) https://github.com/paulsykes/Pinetime  
 
 ## zepp os  
 * https://github.com/zepp-health/zeppos-samples  
