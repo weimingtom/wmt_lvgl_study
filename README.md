@@ -331,6 +331,7 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * https://www.pine64.org/pinetime/
 * (IMP, UI design) https://github.com/arteeh/pinetime
 * https://github.com/search?q=app_heartrate&type=code
+* https://github.com/search?q=lvgl+app_menu+language%3AC&type=code  
 * (IMP, zephyr) https://github.com/ck-telecom/pinetime  
 
 ## zepp os  
