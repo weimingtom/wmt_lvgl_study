@@ -11,7 +11,8 @@ My LVGL study
 * OLED-Menu.rar
 * lvgldemo_android_v2.rar
 SDL1 android ref: VideoProject_v2_play_audio_success.7z
-SDL? ref: VideoProject.rar  
+SDL? ref: VideoProject.rar
+* https://github.com/paulsykes/Pinetime  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
