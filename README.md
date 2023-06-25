@@ -515,13 +515,13 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 
 ## 梁山派, GD32F470ZGT6    
 * https://blog.csdn.net/qq_51930953/article/details/129313750  
-* LVGL 8.2.0, 梁山派LVGL移植RGB-480x800_v0.7z    
+* (not good) LVGL 8.2.0, 梁山派LVGL移植RGB-480x800_v0.7z    
 * https://lckfb.com/docs/lspi_rgb_mcu_lcd_ex/#/屏幕扩展板资料下载  
 * https://lckfb.com/project/detail/lspi_rgb_mcu_lcd_ex  
 * 梁山派屏幕代码.zip  
-* liangshan-lvgl_v1_success.rar
-* (IMP) LSPi_RGB_LVGL8_DEMO.zip  
-* (IMP) LSPi_RGB_LVGL8_DEMO-450版.zip  
+* (this work) liangshan-lvgl_v1_success.rar
+* (not good) LSPi_RGB_LVGL8_DEMO.zip  
+* (not good) LSPi_RGB_LVGL8_DEMO-450版.zip  
 
 ## QF ZERO V2 智能手表终端 (closed source)  
 * QF_ZERO_V2_V1_0_0.zip  
