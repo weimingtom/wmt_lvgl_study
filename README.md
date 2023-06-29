@@ -9,9 +9,9 @@ My LVGL study
 * st77903_demo.7z  
 * https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789    
 * OLED-Menu.rar
-* lvgldemo_android_v2.rar
-SDL1 android ref: VideoProject_v2_play_audio_success.7z
-SDL? ref: VideoProject.rar
+* lvgldemo_android_v2.rar  
+SDL1 android ref: VideoProject_v2_play_audio_success.7z  
+SDL? ref: VideoProject.rar  
 * https://github.com/paulsykes/Pinetime
 * https://github.com/ck-telecom/pinetime  
 
