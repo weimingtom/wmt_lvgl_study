@@ -1141,3 +1141,5 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://github.com/azure-rtos/guix/tree/master/samples/demo_guix_smart_watch
 * https://www.renesas.com/eu/en/video/smart-watch-demo-using-renesas-synergy-guix
 
+## WCH Wristband, 基于CH582M芯片设计的智能手环Demo  
+* https://gitee.com/rvmcu/wch-wristband
