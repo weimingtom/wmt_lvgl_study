@@ -1154,3 +1154,6 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * L91_M_815.zip
 * https://download.csdn.net/download/qq_28132841/10649279
 
+## 基于STM32的可穿戴手环设计_基于stm32的智能手环, csdn, STM32F411CEUx  
+* Project_Hand_Ring+完整版.rar  
+* https://download.csdn.net/download/qq_37150405/85040299  
