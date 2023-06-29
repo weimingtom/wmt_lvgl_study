@@ -1044,7 +1044,9 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * 百度智能手环开源项目资料.rar  
 * 百度智能手环方案开源(含源码，原理图，APP，通信协议等)  
 * https://blog.csdn.net/whik1194/article/details/85270812
-* (???) https://github.com/sommer78/HeartRate/tree/master/wrist-rom-master-code    
+* (???) https://github.com/sommer78/HeartRate/tree/master/wrist-rom-master-code
+* 智能手环，基于Nordic公司nRF51822芯片开发，芯片集成BLE蓝牙4.0协议。使用LIS3DH作为加速度传感器，进行运动和睡眠监测.rar
+https://download.csdn.net/download/luoqiaosheng/11045020  
 
 ## cherrypi  
 * http://wiki.lcmaker.com/index.php?title=首页  
@@ -1131,7 +1133,7 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## 瑞昱小蜜蜂RTL8762A的Bee1 SDK  
 * https://github.com/sommer78/HeartRate/tree/master/Bee1_SDK_1.1.11894.12638
-* https://github.com/sommer78/HeartRate/tree/master/RTL8762
+* https://github.com/sommer78/HeartRate/tree/master/RTL8762  
 * Bee1_SDK_1.0.7291.zip  
 * Bee1_SDK_Release2.zip  
 * baidupan, RTL8762 小蜜蜂 BLE 开发板简介 V0.1  
@@ -1143,3 +1145,12 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## WCH Wristband, 基于CH582M芯片设计的智能手环Demo  
 * https://gitee.com/rvmcu/wch-wristband
+
+## CC2541DB, csdn, 智能手环CC2541  
+* FUN(BLE4.0)5-15.zip
+* https://download.csdn.net/download/yuanwiner/9843244  
+
+## (IMP, diff from duband ?) nrf51822, csdn, with OLED  
+* L91_M_815.zip
+* https://download.csdn.net/download/qq_28132841/10649279
+
