@@ -1043,7 +1043,8 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 * https://github.com/baiduwearable/duband  
 * 百度智能手环开源项目资料.rar  
 * 百度智能手环方案开源(含源码，原理图，APP，通信协议等)  
-* https://blog.csdn.net/whik1194/article/details/85270812  
+* https://blog.csdn.net/whik1194/article/details/85270812
+* (???) https://github.com/sommer78/HeartRate/tree/master/wrist-rom-master-code    
 
 ## cherrypi  
 * http://wiki.lcmaker.com/index.php?title=首页  
@@ -1126,8 +1127,17 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## (?) RTL8762D  
 * https://github.com/ART-Badge/SDK/blob/main/bsp_for_art-badge/libraries/src/app/wristband/lcd_driver/lcd_st7789_240.c  
+* https://github.com/ART-Badge/SDK/blob/main/bsp_for_art-badge/libraries/src/app/wristband/firmware/wristband_sim.py
+
+## 瑞昱小蜜蜂RTL8762A的Bee1 SDK  
+* https://github.com/sommer78/HeartRate/tree/master/Bee1_SDK_1.1.11894.12638
+* https://github.com/sommer78/HeartRate/tree/master/RTL8762
+* Bee1_SDK_1.0.7291.zip  
+* Bee1_SDK_Release2.zip  
+* baidupan, RTL8762 小蜜蜂 BLE 开发板简介 V0.1  
+* (IMP, nrf51822 wrist-rom) https://github.com/sommer78/HeartRate/tree/master/wrist-rom-master-code  
 
 ## guix smart watch  
 * https://github.com/azure-rtos/guix/tree/master/samples/demo_guix_smart_watch
 * https://www.renesas.com/eu/en/video/smart-watch-demo-using-renesas-synergy-guix
-* 
+
