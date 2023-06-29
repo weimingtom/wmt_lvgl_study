@@ -1128,3 +1128,5 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## guix smart watch  
 * https://github.com/azure-rtos/guix/tree/master/samples/demo_guix_smart_watch
+* https://www.renesas.com/eu/en/video/smart-watch-demo-using-renesas-synergy-guix
+* 
