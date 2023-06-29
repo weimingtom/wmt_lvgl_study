@@ -1125,3 +1125,6 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 
 ## (?) RTL8762D  
 * https://github.com/ART-Badge/SDK/blob/main/bsp_for_art-badge/libraries/src/app/wristband/lcd_driver/lcd_st7789_240.c  
+
+## guix smart watch  
+* https://github.com/azure-rtos/guix/tree/master/samples/demo_guix_smart_watch
