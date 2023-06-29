@@ -1118,3 +1118,9 @@ https://www.bilibili.com/video/BV1nT4y1R7rz
 ## ESP32-2424S012 development board, LVGL smartwatch  
 * 1.28inch_ESP32-2424S012.zip  
 * 1.28inch_ESP32-2424S012.zip\1.28inch_ESP32-2424S012\1-Demo\Demo_Arduino\1_1_Factory_samples\Factory_samples  
+
+## (IMP) OM6621PG  
+* 手表资料.7z
+
+## (?) RTL8762D  
+* https://github.com/ART-Badge/SDK/blob/main/bsp_for_art-badge/libraries/src/app/wristband/lcd_driver/lcd_st7789_240.c  
