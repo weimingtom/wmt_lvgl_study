@@ -1145,6 +1145,7 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 
 ## WCH Wristband, 基于CH582M芯片设计的智能手环Demo  
 * https://gitee.com/rvmcu/wch-wristband  
+* st7735
 
 ## CC2541DB, csdn, 智能手环CC2541  
 * FUN(BLE4.0)5-15.zip
@@ -1162,4 +1163,3 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://gitee.com/daierjidetubage/limitless_wristband  
 * nRF5_SDK_12.3.0_d7731ad.zip  
 * limitless_wristband-master.zip  
-* st7735
