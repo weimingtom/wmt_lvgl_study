@@ -1144,7 +1144,7 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://www.renesas.com/eu/en/video/smart-watch-demo-using-renesas-synergy-guix
 
 ## WCH Wristband, 基于CH582M芯片设计的智能手环Demo  
-* https://gitee.com/rvmcu/wch-wristband
+* https://gitee.com/rvmcu/wch-wristband  
 
 ## CC2541DB, csdn, 智能手环CC2541  
 * FUN(BLE4.0)5-15.zip
@@ -1157,3 +1157,9 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 ## 基于STM32的可穿戴手环设计_基于stm32的智能手环, csdn, STM32F411CEUx  
 * Project_Hand_Ring+完整版.rar  
 * https://download.csdn.net/download/qq_37150405/85040299  
+
+## limitless_wristband  
+* https://gitee.com/daierjidetubage/limitless_wristband  
+* nRF5_SDK_12.3.0_d7731ad.zip  
+* limitless_wristband-master.zip  
+* st7735
