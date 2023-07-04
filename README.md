@@ -1163,3 +1163,13 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://gitee.com/daierjidetubage/limitless_wristband  
 * nRF5_SDK_12.3.0_d7731ad.zip  
 * limitless_wristband-master.zip  
+
+## 小安派的LVGL天气站  
+* https://docs.ai-thinker.com/eyes  
+* 小安派的LVGL天气站（小电视天气），似乎是开源的，基于安信可的BL616无线模块，
+所以很可能要在Linux下开发（工具链应该是risc-v的），
+软件基于GuiGuider，故可以在Windows下模拟运行，大概效果是这样子
+（当然和86盒差不多，可以点击wifi按钮设置网络） ​​​
+* 小安派eyes天气站.zip, with GuiGuider Windows emulator   
+* https://github.com/Ai-Thinker-Open/Ai-Pi_Eeys
+* https://github.com/Ai-Thinker-Open/Ai-Pi_Eeys/tree/AiPi-Eyes_Weather  
