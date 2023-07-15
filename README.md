@@ -15,7 +15,8 @@ SDL? ref: VideoProject.rar
 * https://github.com/paulsykes/Pinetime
 * https://github.com/ck-telecom/pinetime
 * https://github.com/arteeh/pinetime/tree/v1
-* https://github.com/search?q=app_weather.c&type=code  
+* https://github.com/search?q=app_weather.c&type=code
+* https://github.com/Emeryth/sma-q2-oss/blob/master/app/app_weather.c  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
