@@ -13,7 +13,9 @@ My LVGL study
 SDL1 android ref: VideoProject_v2_play_audio_success.7z  
 SDL? ref: VideoProject.rar  
 * https://github.com/paulsykes/Pinetime
-* https://github.com/ck-telecom/pinetime  
+* https://github.com/ck-telecom/pinetime
+* https://github.com/arteeh/pinetime/tree/v1
+* https://github.com/search?q=app_weather.c&type=code  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
