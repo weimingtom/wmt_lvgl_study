@@ -1176,3 +1176,7 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * 小安派eyes天气站.zip, with GuiGuider Windows emulator   
 * https://github.com/Ai-Thinker-Open/Ai-Pi_Eeys
 * https://github.com/Ai-Thinker-Open/Ai-Pi_Eeys/tree/AiPi-Eyes_Weather  
+
+## ESP32S3 GC9A01 LVGL Smart Watch  
+* https://github.com/UsefulElectronics/esp32s3-gc9a01-lvgl
+* https://www.youtube.com/watch?v=Td08fweKXwY  
