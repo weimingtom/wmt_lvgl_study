@@ -336,7 +336,9 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * ST7789, 240 * 240, https://github.com/paulsykes/Pinetime/blob/master/doc/PinetimeStubWithNrf52DK.md
 * search baidupan, work_infinitime_v1_sim.tar.gz
 * search baidupan, work_pinetime_v1.tar.gz
-* https://github.com/joaquimorg/PineTime40  
+* https://github.com/joaquimorg/PineTime40
+* https://wiki.pine64.org/index.php/PineTime
+* https://wiki.pine64.org/wiki/PineTime_Development  
 
 ## zepp os  
 * https://github.com/zepp-health/zeppos-samples  
