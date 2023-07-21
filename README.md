@@ -1122,7 +1122,8 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://docs.espressif.com/projects/espressif-esp-dev-kits/zh_CN/latest/esp32c3/esp32-c3-lcdkit/user_guide.html  
 * https://github.com/espressif/esp-dev-kits/tree/master/esp32-c3-lcdkit/examples/knob_panel
 * https://www.bilibili.com/read/cv22603801  
-* https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789  
+* https://gitee.com/lai-shanhai/esp32-s3-lvgl-ec11-st7789
+* https://github.com/espressif/esp-bsp/tree/master/esp32_c3_lcdkit  
 
 ## (TODO) 基于STM32的OLED多级菜单项目（简化版智能手表）  
 * https://blog.csdn.net/black_sneak/article/details/126442559  
