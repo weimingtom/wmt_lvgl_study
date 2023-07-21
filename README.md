@@ -341,7 +341,15 @@ https://oshwhub.com/lg508612189/f1c200s-chuan-kou-ping-ban
 * search baidupan, work_pinetime_v1.tar.gz
 * https://github.com/joaquimorg/PineTime40
 * https://wiki.pine64.org/index.php/PineTime
-* https://wiki.pine64.org/wiki/PineTime_Development  
+* https://wiki.pine64.org/wiki/PineTime_Development
+* burn:  
+```
+用nRF52 DK（nrf52832）和中景园7脚st7789 240方形屏幕搭建的PineTime模拟效果，如下，  
+比较简单（暂时不知道怎么切换其他功能）。烧录方法是（可以不接DETECT到地和按钮），  
+同时烧录pinetime-app.hex和s132_nrf52_6.1.1_softdevice.hex即可。  
+app会从0x26000开始烧录，而软设备会同时包含mbr分区，从0x0跳到0x26000，  
+如图橙色和蓝色是mbr和软设备，绿色是app分区  
+```
 
 ## zepp os  
 * https://github.com/zepp-health/zeppos-samples  
