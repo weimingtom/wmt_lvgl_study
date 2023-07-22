@@ -538,7 +538,9 @@ OnionIoT/Omega2-Dash/blob/master/demo/littlev-demo/main.c
 * 梁山派屏幕代码.zip  
 * (this work) liangshan-lvgl_v1_success.rar
 * (not good) LSPi_RGB_LVGL8_DEMO.zip  
-* (not good) LSPi_RGB_LVGL8_DEMO-450版.zip  
+* (not good) LSPi_RGB_LVGL8_DEMO-450版.zip
+* 【游戏机扩展板】资料, 游戏机扩展板屏幕采用了SPI通讯的240*280像素的1.69寸IPS高清圆角屏幕。  
+https://lceda001.feishu.cn/wiki/H9adw4sgriCUuakDPYEc83kInqC  
 
 ## QF ZERO V2 智能手表终端 (closed source)  
 * QF_ZERO_V2_V1_0_0.zip  
