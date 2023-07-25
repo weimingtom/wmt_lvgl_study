@@ -1198,3 +1198,8 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 ## ESP32S3 GC9A01 LVGL Smart Watch  
 * https://github.com/UsefulElectronics/esp32s3-gc9a01-lvgl
 * https://www.youtube.com/watch?v=Td08fweKXwY  
+
+## 小安派, aipi dsl watch  
+* https://docs.ai-thinker.com/dsl  
+* https://github.com/Ai-Thinker-Open/AiPi-Open-Kits
+* https://github.com/Ai-Thinker-Open/AiPi-Open-Kits/tree/master/AiPi-DSL_Watch
