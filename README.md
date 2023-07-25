@@ -1200,6 +1200,7 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://www.youtube.com/watch?v=Td08fweKXwY  
 
 ## 小安派, aipi dsl watch  
-* https://docs.ai-thinker.com/dsl  
+* https://docs.ai-thinker.com/dsl
+* https://aithinker.blog.csdn.net/article/details/131547823  
 * https://github.com/Ai-Thinker-Open/AiPi-Open-Kits
 * https://github.com/Ai-Thinker-Open/AiPi-Open-Kits/tree/master/AiPi-DSL_Watch
