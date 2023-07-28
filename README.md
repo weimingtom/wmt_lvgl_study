@@ -1193,14 +1193,17 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 （当然和86盒差不多，可以点击wifi按钮设置网络） ​​​  
 * 小安派eyes天气站.zip, with GuiGuider Windows emulator   
 * https://github.com/Ai-Thinker-Open/Ai-Pi_Eeys
-* https://github.com/Ai-Thinker-Open/Ai-Pi_Eeys/tree/AiPi-Eyes_Weather  
-
-## ESP32S3 GC9A01 LVGL Smart Watch  
-* https://github.com/UsefulElectronics/esp32s3-gc9a01-lvgl
-* https://www.youtube.com/watch?v=Td08fweKXwY  
+* https://github.com/Ai-Thinker-Open/Ai-Pi_Eeys/tree/AiPi-Eyes_Weather
+* Ai-Pi_Eeys_weather
+* 小安派eyes天气站.zip, 小安派eyes天气站.zip\GuiGuider\M6x_Eyes\lvgl-simulator\build\bin\simulator.exe  
 
 ## 小安派, aipi dsl watch  
 * https://docs.ai-thinker.com/dsl
 * https://aithinker.blog.csdn.net/article/details/131547823  
 * https://github.com/Ai-Thinker-Open/AiPi-Open-Kits
 * https://github.com/Ai-Thinker-Open/AiPi-Open-Kits/tree/master/AiPi-DSL_Watch
+* search aipi-dsl-watch_1.28_flash.zip  
+
+## ESP32S3 GC9A01 LVGL Smart Watch  
+* https://github.com/UsefulElectronics/esp32s3-gc9a01-lvgl
+* https://www.youtube.com/watch?v=Td08fweKXwY  
