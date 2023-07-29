@@ -705,10 +705,44 @@ STM32F413-DISCOVERY
 ## ZSWatch  
 * https://github.com/jakkra/ZSWatch  
 * (?) https://github.com/u-blox/ubxlib  
-* (nrf52833 dk, ncs 2.2.0) ZSWatch_v1_v2_run_success.rar  
-* (zephyr display demo, nrf52833 dk, ncs 2.2.0) gc9a01a_zephyr_driver_app_v7_lvgl.rar  
-* (nrf5340 dk, ncs 2.3.0) ZSWatch_v2_v5_succss_no_sleep_touch.7z
-* (zephyr display demo, nrf5340 dk, ncs 2.3.0) gc9a01a_zephyr_driver_app230_run_success.rar  
+* (nrf52833 dk, ncs 2.2.0) ZSWatch_v1_v2_run_success.rar     
+* (zephyr display demo, nrf52833 dk, ncs 2.2.0, with or without LVGL)  
+gc9a01a_zephyr_driver_app_v7_lvgl.rar  
+* (nrf5340 dk, ncs 2.3.0) ZSWatch_v2_v5_succss_no_sleep_touch.7z  
+* (zephyr display demo, nrf5340 dk, ncs 2.3.0)  
+gc9a01a_zephyr_driver_app230_run_success.rar
+* nrf52833 pins to GC9A01, SPI1    
+```
+//MISO P1.08
+//MOSI P0.30
+//SCK P0.31
+//CS0 P0.16	
+---
+//GND: GND
+//VCC: VDD
+//SCL: P0.31
+//SDA: P0.30
+//RES: P0.03
+//DC:  P1.00
+//CS: P0.16 -> P1.03
+//BLK: P0.26
+```
+* nrf5340 pins to GC9A01, SPI4    
+```
+//MISO P1.14
+//MOSI P1.13
+//SCK P1.15
+//CS0 P0.06
+---
+//GND: GND
+//VCC: VDD
+//SCL: P1.15
+//SDA: P1.13
+//RES: P0.25
+//DC:  P0.07
+//CS:  P0.06 -> P1.03
+//BLK: P1.06->VCC (waveshare version touch round screen is high)
+```
 * https://docs.zephyrproject.org/latest/boards/arm/ubx_evkninab4_nrf52833/doc/index.html  
 * https://docs.zephyrproject.org/latest/boards/arm/nrf5340dk_nrf5340/doc/index.html  
 * https://docs.zephyrproject.org/latest/boards/arm/nrf52833dk_nrf52833/doc/index.html  
