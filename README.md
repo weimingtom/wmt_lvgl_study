@@ -1247,3 +1247,6 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 
 ## nRF52-Smartwatch  
 * https://github.com/FleshdeckTV/nRF52-Smartwatch  
+
+## BLE-Watch  
+* https://github.com/CharlesDias/BLE-Watch  
