@@ -1244,3 +1244,6 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 ## ESP32S3 GC9A01 LVGL Smart Watch  
 * https://github.com/UsefulElectronics/esp32s3-gc9a01-lvgl
 * https://www.youtube.com/watch?v=Td08fweKXwY  
+
+## nRF52-Smartwatch  
+* https://github.com/FleshdeckTV/nRF52-Smartwatch  
