@@ -705,7 +705,10 @@ STM32F413-DISCOVERY
 ## ZSWatch  
 * https://github.com/jakkra/ZSWatch  
 * (?) https://github.com/u-blox/ubxlib  
-* nrf52833 dk, ncs 2.2.0, ZSWatch_v1_v2_run_success.rar  
+* (nrf52833 dk, ncs 2.2.0) ZSWatch_v1_v2_run_success.rar  
+* (zephyr display demo, nrf52833 dk, ncs 2.2.0) gc9a01a_zephyr_driver_app_v7_lvgl.rar  
+* (nrf5340 dk, ncs 2.3.0) ZSWatch_v2_v5_succss_no_sleep_touch.7z
+* (zephyr display demo, nrf5340 dk, ncs 2.3.0) gc9a01a_zephyr_driver_app230_run_success.rar  
 * https://docs.zephyrproject.org/latest/boards/arm/ubx_evkninab4_nrf52833/doc/index.html  
 * https://docs.zephyrproject.org/latest/boards/arm/nrf5340dk_nrf5340/doc/index.html  
 * https://docs.zephyrproject.org/latest/boards/arm/nrf52833dk_nrf52833/doc/index.html  
