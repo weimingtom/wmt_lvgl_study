@@ -1253,3 +1253,6 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 
 ## Micro ESP8266一体开发板 微型桌面时钟  
 * https://gitee.com/davis-xu/esp8266_-lua_-day-time_-micor  
+
+## qpaperOS  
+* https://github.com/qewer33/qpaperOS  
