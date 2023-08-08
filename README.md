@@ -1255,4 +1255,9 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://gitee.com/davis-xu/esp8266_-lua_-day-time_-micor  
 
 ## qpaperOS  
-* https://github.com/qewer33/qpaperOS  
+* https://github.com/qewer33/qpaperOS
+
+## 树莓派音乐播放器, raspberry pi music player, st7789 python    
+* https://github.com/u-geek/AOIDE_KAZOO
+* https://github.com/u-geek/st7789-python/tree/master/examples
+* may be not open source ???  
