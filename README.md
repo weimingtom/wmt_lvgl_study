@@ -1261,3 +1261,7 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://github.com/u-geek/AOIDE_KAZOO
 * https://github.com/u-geek/st7789-python/tree/master/examples
 * may be not open source ???  
+
+## T-Display-S3 NES  
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main/example/nes  
+* nes_td3s_v2_run_roms.rar  
