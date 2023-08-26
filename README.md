@@ -16,7 +16,8 @@ SDL? ref: VideoProject.rar
 * https://github.com/ck-telecom/pinetime
 * https://github.com/arteeh/pinetime/tree/v1
 * https://github.com/search?q=app_weather.c&type=code
-* https://github.com/Emeryth/sma-q2-oss/blob/master/app/app_weather.c  
+* https://github.com/Emeryth/sma-q2-oss/blob/master/app/app_weather.c
+* (TODO) dino, ESP32C3_1.90Inch.zip   
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
@@ -24,6 +25,7 @@ dino_v2_2inch_wio_rp2040_success_important.rar
 * dino arduino port  
 dino_twatch2020v3_v7_success.rar  
 dino_twatch2020v3_v8_faster.rar  
+* (IMP, TODO) dino, ESP32C3_1.90Inch.zip   
 
 ## ttgo t-watch  
 * https://github.com/sharandac/My-TTGO-Watch  
