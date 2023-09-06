@@ -1268,5 +1268,5 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main/example/nes  
 * nes_td3s_v2_run_roms.rar  
 
-## fbtft setup, https://github.com/headHUB/ILI9341-Orange-Pi-Zero  
+## fbtft setup, ILI9341-Orange-Pi-Zero  
 * https://github.com/headHUB/ILI9341-Orange-Pi-Zero  
