@@ -1269,4 +1269,6 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * nes_td3s_v2_run_roms.rar  
 
 ## fbtft setup, ILI9341-Orange-Pi-Zero  
-* https://github.com/headHUB/ILI9341-Orange-Pi-Zero  
+* https://github.com/headHUB/ILI9341-Orange-Pi-Zero
+* search con2fbmap in bing  
+
