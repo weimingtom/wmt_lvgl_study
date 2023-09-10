@@ -19,6 +19,10 @@ SDL? ref: VideoProject.rar
 * https://github.com/Emeryth/sma-q2-oss/blob/master/app/app_weather.c
 * (TODO) dino, ESP32C3_1.90Inch.zip   
 
+## 小志掌机研究, GAMEPI20掌机研究    
+* lv_port_linux_frame_buffer_xiaozhi_v1.tar.gz  
+* work_gamepi_v3.7z  
+
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
 dino_v2_2inch_wio_rp2040_success_important.rar   
