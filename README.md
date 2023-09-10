@@ -1279,7 +1279,7 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 * https://github.com/headHUB/ILI9341-Orange-Pi-Zero
 * search con2fbmap in bing  
 
-## lvgl, NES
+## v853 lvgl NES  
 * https://www.aw-ol.com/downloads?cat=18  
 * https://v853.docs.aw-ol.com/gui/lvgl_demo_2048/  
 * https://v853.docs.aw-ol.com/gui/lvgl_nes/  
