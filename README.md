@@ -21,7 +21,9 @@ SDL? ref: VideoProject.rar
 
 ## 小志掌机研究, GAMEPI20掌机研究    
 * lv_port_linux_frame_buffer_xiaozhi_v1.tar.gz  
-* work_gamepi_v3.7z  
+* work_gamepi_v3.7z
+* https://wiki.sipeed.com/soft/Lichee/zh/Zero-Doc/Drive/GPIO_file.html  
+不需要，因为小志掌机用的是gpio-keys驱动，被/dev/input/event1键盘设备占用  
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
