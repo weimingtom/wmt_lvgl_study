@@ -31,7 +31,8 @@ dino_v2_2inch_wio_rp2040_success_important.rar
 * dino arduino port  
 dino_twatch2020v3_v7_success.rar  
 dino_twatch2020v3_v8_faster.rar  
-* (IMP, TODO) dino, ESP32C3_1.90Inch.zip   
+* (IMP, TODO) dino, ESP32C3_1.90Inch.zip
+* https://github.com/weimingtom/dino_twatch2020v3  
 
 ## ttgo t-watch  
 * https://github.com/sharandac/My-TTGO-Watch  
