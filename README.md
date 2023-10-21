@@ -1303,6 +1303,8 @@ https://github.com/qewer33/qlock-os
 ## (TODO) 优感手表, nrf52840, 魔改成ili9341显示（原版不是），注释掉大部分传感器代码   
 * smart-watch_top_v4_ili9341.7z  
 * 待补充原来的gitee网址  
+* https://gitee.com/in_drama/smart-watch    
+* smart-watch_top_v1_build_success.7z  
 
 ## qt_nes  
 * https://gitee.com/Embedfire/ebf_linux_qt_nes?_from=gitee_search  
@@ -1322,3 +1324,17 @@ search baidupan, src.zip
 
 ## gamepi20_drivers    
 https://github.com/darrenliew96/gamepi20_drivers  
+
+## （TODO） ESPLAY_MICRO_资料_esplay
+
+## ESP32-Watch  
+https://gitee.com/liuzewen/ESP32-Watch/tree/master/1.hardware/ESP32手表V2.0  
+
+## InfoNES-1, SDL  
+https://www.elecfans.com/d/1906954.html  
+https://github.com/qinyunti/InfoNES-1  
+cd src/SDL; make  
+
+## directfb  
+https://blog.csdn.net/jxgz_leo/article/details/77543906  
+https://gitee.com/todoassert/directfb  
