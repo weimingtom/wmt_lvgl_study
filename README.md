@@ -1295,3 +1295,7 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 ## DaFit Magic 3 Smartwatch, nrf  
 * https://github.com/atc1441/Magic3_DaFit  
 
+## ? 可能和lilygo屏幕开发板有关的游戏和时钟  
+https://github.com/search?q=lilygo+game&type=repositories  
+https://github.com/search?q=lilygo%20t-display&type=repositories  
+https://github.com/qewer33/qlock-os  
