@@ -1346,3 +1346,61 @@ sdl_v3_compile_pass.tar.gz
 * lvgldemo_v2_lvgl_android_draw_success.7z  
 * ffmpeg player  
 VideoProject_v2_play_audio_success(1).7z  
+
+## fbviewer   
+http://bbs.sunsili.com/embedded/202212/00000407.html  
+root@MaixLinux:~# fbviewer haoran.jpg -f  
+
+## fbviewer, fbv    
+http://www.taodudu.cc/news/show-2612635.html?action=onClick  
+fbviewer Yuzuki.jpg  
+https://blog.csdn.net/weixin_43094346/article/details/123088068  
+https://en.wiki.sipeed.com/soft/Lichee/zh/Lichee-RV/contribution/Dual_screen_display/Dual_screen_display.html  
+https://www.gloomyghost.com/live/20220131.aspx  
+
+## fbv  
+https://linuxtoy.org/archives/fbv-framebuffer-img-viewer.html  
+2011-08-23 · By cheer_xiao · Posted in Apps · 0 Comments  
+fbv 是一款基于 framebuffer 的图片查看器，可以在真正的终端下查看 png/gif/jpeg/bmp 图片。  
+使用说明书：  
+1. 安装 fbv。  
+2. 按 Ctrl-Alt-F1~F6 中的某一个键切换到终端，登录。  
+3. fbv /path/to/image  
+4. 键盘操作：  
+5. 如果图片太大，使用 F 切换原大小/适合屏幕。  
+6. 如果图片太大，也使用方向键或者 WAXD 滚动。  
+7. M 和 N 是旋转。  
+8. 如果给定了多个文件，, 和 . 是翻页。  
+9. Q 是退出。  
+10. 更多操作请自行摸索……欢迎补充 ^_^  
+Arch 用户使用 pacman -S fbv 安装。其它发行版请补充。  
+PS. fbv 似乎只有一个临时的官方首页，在这里。源码库在这里。  
+Tagged as fbv, framebuffer · Edit on GitHub  
+http://www.eclis.ch/fbv/  
+http://repo.or.cz/w/fbv.git  
+http://bbs.eeworld.com.cn/thread-1197990-1-1.html  
+..\tina-d1-h\repo\package\utils\fbviewer  
+
+## fbviewer  
+https://bbs.aw-ol.com/topic/2530/游戏引擎第一步-d1跑tinygl?_=1694505904441&lang=zh-CN  
+https://bbs.aw-ol.com/topic/547/求教-关于tina-linux-sdk代码架构问题/3?lang=zh-CN  
+https://gitee.com/YJHmath/image-transmission-d1-tina/tree/master  
+https://bbs.aw-ol.com/topic/395/mcu通过以太网-udp-发送图片到哪吒开发板进行处理?_=1694506083079&lang=zh-CN  
+https://bbs.aw-ol.com/search?term=fbviewer&in=titlesposts&matchWords=all&sortBy=relevance&sortDirection=desc&showAs=posts  
+
+## fc模拟器  
+* https://gitee.com/weidongshan/esp32_100ask_project/tree/master/lib/nofrendo/src   
+
+## directfb  
+https://www.cnblogs.com/274914765qq/p/4358088.html  
+DirectFB编程  
+http://hk.aiuxian.com/article/p-gyjqrxlr-dq.html  
+https://blog.csdn.net/zzb2760715357/article/details/125731327  
+基于开发板 香橙派 Orange Pi PC PLUS 的 SDL 2交叉编译 ，并运行demo程序  
+https://www.misuland.com/news/3691885099445387748  
+https://blog.csdn.net/u012075739/article/details/25030029  
+https://blog.csdn.net/kof98765/article/details/18264859  
+DirectFB简介  
+https://blog.csdn.net/GMstart/article/details/6693628   
+Get DirectFB 1.2.* running on Ubuntu 9.04 (with multi app support)  
+https://blog.csdn.net/ishuang/article/details/83470190  
