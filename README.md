@@ -1338,3 +1338,11 @@ cd src/SDL; make
 ## directfb  
 https://blog.csdn.net/jxgz_leo/article/details/77543906  
 https://gitee.com/todoassert/directfb  
+
+## sdl android dummy  
+sdl_v3_compile_pass.tar.gz  
+
+## lvgl android  
+* lvgldemo_v2_lvgl_android_draw_success.7z  
+* ffmpeg player  
+VideoProject_v2_play_audio_success(1).7z  
