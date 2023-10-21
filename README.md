@@ -1299,3 +1299,8 @@ https://download.csdn.net/download/luoqiaosheng/11045020
 https://github.com/search?q=lilygo+game&type=repositories  
 https://github.com/search?q=lilygo%20t-display&type=repositories  
 https://github.com/qewer33/qlock-os  
+
+## (TODO) 优感手表, nrf52840, 魔改成ili9341显示（原版不是），注释掉大部分传感器代码   
+* smart-watch_top_v4_ili9341.7z  
+* 待补充原来的gitee网址  
+
