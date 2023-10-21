@@ -1304,3 +1304,21 @@ https://github.com/qewer33/qlock-os
 * smart-watch_top_v4_ili9341.7z  
 * 待补充原来的gitee网址  
 
+## qt_nes  
+* https://gitee.com/Embedfire/ebf_linux_qt_nes?_from=gitee_search  
+* https://github.com/nejidev/arm-NES-linux  
+
+## (TODO, 待整理) qt nes  
+https://whycan.com/t_7253.html  
+qt4-NES4_5_512_480_640_480.7z  
+qt4-NES4_5_512_480_640_480_try_high_speed.7z  
+https://whycan.com/t_5312.html  
+https://github.com/nejidev/arm-NES-linux  
+work_qt4_v1_right_color.7z  
+qt_nes_whycan_v1.7z  
+qt4-nes2_v1_success_ubuntu14_qt4_qws.tar.gz  
+https://bbs.aw-ol.com/topic/4208/qt-驅動-rgb-565-顔色不對  
+search baidupan, src.zip  
+
+## gamepi20_drivers    
+https://github.com/darrenliew96/gamepi20_drivers  
