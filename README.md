@@ -56,6 +56,25 @@ showbmp_milkv_v1_basic.tar.gz
 如果图片不存在，img(bmp）版会崩溃（段错误）
 用milk-v duo软SPI驱动1.44寸屏st7735（非ips）效果如下，跟luckfox pico一样，软spi会很慢。另外，不知道为什么，tf卡要带电重插，可能要往tf卡上方用拇指向下（向板面）压一下，否则引导会失败（提示tf卡挂载失败）。virtualbox挂载tf卡写入交叉编译文件，旧固件复制elf文件不需要sudo，但新固件需要，我这里用旧固件20230616，但用的交叉工具链是duo-sdk-v1.2.0（需要指定march mcpu等）。对应的sysfs文件号对应针脚图我自己写了一份。全部用右侧排针
 
+key input
+ssd2xx-demo-master.zip\ssd2xx-demo-master\7.gpio\gpio_test_input
+https://gitee.com/mFlying/ssd2xx-demo/blob/master/7.gpio/gpio_test_input/main.c
+http://doc.industio.com/docs/ido-som2d0x-start/ido-som2d0x-start-1ctpju1ek2b27
+https://github.com/OpenNuvoton/NUC970_Linux_Applications/blob/master/demos/gpio/gpio_demo.c
+https://github.com/OpenNuvoton/NUC980_Linux_Applications/blob/master/demos/gpio/gpio_demo.c
+https://github.com/OpenNuvoton/N32905_Linux_Applications/blob/master/gpio/gpio.c
+https://github.com/OpenNuvoton/N32926_Linux_Applications/blob/master/gpio/gpio.c
+
+znzpi
+
+未上传移动硬盘中的龙芯派相关文件，太大了
+硬盘:/loongson_upload
+
+
+https://github.com/wiringX/wiringX
+https://milkv.io/zh/docs/duo/application-development/wiringx#准备开发环境
+目前已知的类Arduino的Linux BSP SDK，不完全收录（有些板代码不集中）：（1）第一梯队：树莓派的wiringpi，NanoPi的WiringNP和matrix，香橙派的wiringOP，香蕉派的BPI-WiringPi。（2）第二梯队：嵌入式Linux接口开发技术的v3s bsp，龙芯派的Loongson-Smartloong-V2.0和OpenLoongsonLib1c和Ls1bTest，ssd202d的ssd2xx-demo，Tinker board（RK3288）的GPIO_API_for_C.zip（3）第三梯队：vocore2的mem.zip
+
 ```
 * TODO
 
