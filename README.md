@@ -18,6 +18,25 @@ SDL? ref: VideoProject.rar
 * https://github.com/search?q=app_weather.c&type=code
 * https://github.com/Emeryth/sma-q2-oss/blob/master/app/app_weather.c
 * (TODO) dino, ESP32C3_1.90Inch.zip   
+* TODO
+```
+novel press
+F:\12_old_old_yingpan3\novel-press
+
+cii20
+F:\12_old_old_yingpan3\cii
+
+gtk dfb
+F:\12_old_old_yingpan\linux_resource_backup\gtk-linux
+
+directfb
+F:\12_old_old_yingpan\linux_resource_backup\ubuntu20121205
+
+framebuffer
+F:\12_old_old_yingpan\linux_resource_backup\ubuntu20121205\fb_study
+linux, fb
+F:\12_old_old_yingpan\linux_resource_backup\gtk\system\temp
+```
 
 ## 小志掌机研究, GAMEPI20掌机研究    
 * lv_port_linux_frame_buffer_xiaozhi_v1.tar.gz  
