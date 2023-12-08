@@ -46,7 +46,16 @@ baidupan：mupdf111a_v2.rar
 mupdf111a.apk
 
 不拆SoC，不用X光机，利用已知IO探测未知的IO连接情况  
-https://whycan.com/t_5486.html  
+https://whycan.com/t_5486.html
+
+milk-v duo soft spi
+showbmp_milkv_v2_img.tar.gz
+showbmp_milkv_v1_basic.tar.gz
+软spi接线方法：showbmp_milkv_v2_img_pin.txt
+我知道为什么我之前交叉编译milk-v duo的hello运行会不成功——因为它需要配置正确的march和mabi参数。。。详细见milkv-duo/duo-examples的envsetup.sh。奇怪的是，如果是静态编译的话居然可以不加这些参数。可能加了这些march参数，用算能官网的工具链大概也是可以的吧（它也带了一个musl的工具链）
+如果图片不存在，img(bmp）版会崩溃（段错误）
+用milk-v duo软SPI驱动1.44寸屏st7735（非ips）效果如下，跟luckfox pico一样，软spi会很慢。另外，不知道为什么，tf卡要带电重插，可能要往tf卡上方用拇指向下（向板面）压一下，否则引导会失败（提示tf卡挂载失败）。virtualbox挂载tf卡写入交叉编译文件，旧固件复制elf文件不需要sudo，但新固件需要，我这里用旧固件20230616，但用的交叉工具链是duo-sdk-v1.2.0（需要指定march mcpu等）。对应的sysfs文件号对应针脚图我自己写了一份。全部用右侧排针
+
 ```
 * TODO
 
