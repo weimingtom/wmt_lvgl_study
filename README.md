@@ -75,6 +75,12 @@ https://github.com/wiringX/wiringX
 https://milkv.io/zh/docs/duo/application-development/wiringx#准备开发环境
 目前已知的类Arduino的Linux BSP SDK，不完全收录（有些板代码不集中）：（1）第一梯队：树莓派的wiringpi，NanoPi的WiringNP和matrix，香橙派的wiringOP，香蕉派的BPI-WiringPi。（2）第二梯队：嵌入式Linux接口开发技术的v3s bsp，龙芯派的Loongson-Smartloong-V2.0和OpenLoongsonLib1c和Ls1bTest，ssd202d的ssd2xx-demo，Tinker board（RK3288）的GPIO_API_for_C.zip（3）第三梯队：vocore2的mem.zip
 
+https://forum.walnutpi.com/t/topic/74
+sudo apt-get install nestopia
+https://github.com/0ldsk00l/nestopia
+https://sourceforge.net/projects/nestopiaue/files/1.52/nestopia_1.52.0-win32.zip/download
+http://0ldsk00l.ca/nestopia/
+
 ```
 * TODO
 
