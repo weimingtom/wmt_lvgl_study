@@ -36,7 +36,19 @@ framebuffer
 F:\12_old_old_yingpan\linux_resource_backup\ubuntu20121205\fb_study
 linux, fb
 F:\12_old_old_yingpan\linux_resource_backup\gtk\system\temp
+
+fdb  
+* F:\12_old_old_yingpan3\fdb_mod
+
+PDF阅读器分tab
+MuPDF Example
+baidupan：mupdf111a_v2.rar
+mupdf111a.apk
+
+不拆SoC，不用X光机，利用已知IO探测未知的IO连接情况  
+https://whycan.com/t_5486.html  
 ```
+* TODO
 
 ## 小志掌机研究, GAMEPI20掌机研究    
 * lv_port_linux_frame_buffer_xiaozhi_v1.tar.gz  
@@ -1423,3 +1435,14 @@ DirectFB简介
 https://blog.csdn.net/GMstart/article/details/6693628   
 Get DirectFB 1.2.* running on Ubuntu 9.04 (with multi app support)  
 https://blog.csdn.net/ishuang/article/details/83470190  
+
+
+## D213ECV lvgl_demo v7  
+* 测试d213开发板（D213ECV）的lvgl_demo v7，效果如下（代码出处：RCSN/lv_port_linux_frame_buffer_mq_d1s），这电容触摸屏还是不错。结论（1）没有自带fbset，只能目测1024*600，触摸屏/dev/input/event0（2）剩余空间不足，需要复制到/dev/shm下执行（内存执行）（3）还是会有一定的发热量，比自带的测试程序要热  
+* lv_port_linux_frame_buffer_d213.tar.gz  
+* lv_port_linux_frame_buffer_d213_img.tar.gz  
+
+## (TODO) sololinker-a lvgl_demo v7     
+* lv_port_linux_frame_buffer_sololinker_img.tar.gz  
+* lv_port_linux_frame_buffer_sololinker.tar.gz  
+* 在sololinker-a上运行lvgl_demo v7的效果。工具链用luckfox的，分辨率填480和480，颜色深度填32，显示和触摸设备填/dev/fb0和/dev/input/event0。代码出处：RCSN/lv_port_linux_frame_buffer_mq_d1s，略加修改 （补注：上次说关闭程序会黑屏，但我自己编译的lvgl_demo关闭的话仍然会停留在当前画面）  
