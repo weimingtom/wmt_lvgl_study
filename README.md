@@ -1,6 +1,11 @@
 # wmt_lvgl_study
 My LVGL study
 
+## Working  
+* https://github.com/weimingtom/luban-lite_fork  
+* https://github.com/weimingtom/lvgl_android_port  
+* (TODO) VS2013 project as LVGL emulator and converter   
+
 ## TODO：
 * 请有时间补充一下工具链信息  
 * 研究一下https://gitee.com/mFlying/ssd2xx-demo  
