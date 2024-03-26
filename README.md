@@ -4,8 +4,8 @@ My LVGL study
 ## Working  
 * https://github.com/weimingtom/luban-lite_fork  
 * https://github.com/weimingtom/lvgl_android_port  
-* (TODO) VS2013 project as LVGL emulator and converter   
-* https://github.com/weimingtom/wt32sc01  
+* TODO, https://github.com/weimingtom/luban-lite_fork_tools_vs2013  
+* https://github.com/weimingtom/wt32sc01
 
 ## TODO：
 * 请有时间补充一下工具链信息  
