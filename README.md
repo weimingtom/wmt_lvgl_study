@@ -1486,3 +1486,16 @@ https://blog.csdn.net/ishuang/article/details/83470190
 * lv_port_linux_frame_buffer_sololinker_img.tar.gz  
 * lv_port_linux_frame_buffer_sololinker.tar.gz  
 * 在sololinker-a上运行lvgl_demo v7的效果。工具链用luckfox的，分辨率填480和480，颜色深度填32，显示和触摸设备填/dev/fb0和/dev/input/event0。代码出处：RCSN/lv_port_linux_frame_buffer_mq_d1s，略加修改 （补注：上次说关闭程序会黑屏，但我自己编译的lvgl_demo关闭的话仍然会停留在当前画面）  
+
+## lvgl 9.4 SDL2 port
+* https://github.com/lvgl/lv_port_linux
+* ./build/bin/xxx -b sdl
+* https://docs.lvgl.io/master/details/integration/driver/sdl.html
+* #define LV_USE_SDL  1
+* main() { ... lv_sdl_mouse_create(); ... }
+```
+lvgl研究，最新lvgl9.4在xubuntu sdl2下的运行效果。好像有改动，现在不能单纯改conf头文件，还需要自己改main.c（改动较大）才能够切换到SDL2。
+默认是只能framebuffer而且没有SDL2鼠标输入。我的做法是参考官方文档（要看lvgl的SDL驱动文档）在main函数内加入lv_sdl_mouse_create();
+（头文件也要自己加），去掉start_slideshow，才能够响应鼠标事件，否则鼠标箭头不会动。lvgl是这样的，你压根不知道它下个版本会变成怎样，
+改来改去，版本之间不兼容
+```
