@@ -1492,7 +1492,7 @@ https://blog.csdn.net/ishuang/article/details/83470190
 * ./build/bin/xxx -b sdl
 * https://docs.lvgl.io/master/details/integration/driver/sdl.html
 * #define LV_USE_SDL  1
-* main() { ... lv_sdl_mouse_create(); ... }
+* main() { ... lv_sdl_mouse_create(); ... } //need to remove xxx_start_slideshow(); call
 ```
 lvgl研究，最新lvgl9.4在xubuntu sdl2下的运行效果。好像有改动，现在不能单纯改conf头文件，还需要自己改main.c（改动较大）才能够切换到SDL2。
 默认是只能framebuffer而且没有SDL2鼠标输入。我的做法是参考官方文档（要看lvgl的SDL驱动文档）在main函数内加入lv_sdl_mouse_create();
