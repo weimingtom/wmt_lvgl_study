@@ -1501,5 +1501,7 @@ lvgl研究，最新lvgl9.4在xubuntu sdl2下的运行效果。好像有改动，
 ```
 * lv_port_linux_20250827_v2.tar.gz
 
-## luckfox pico rv1103g1 .feat st7789V .feat LVGL 
+## LuckFox Pico RV1103G1 .feat ST7789V .feat LVGL 
 * https://github.com/weimingtom/wmt_luckfox_study
+* https://spotpear.cn/index/study/detail/id/1308.html
+
