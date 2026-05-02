@@ -95,6 +95,9 @@ http://0ldsk00l.ca/nestopia/
 * work_gamepi_v3.7z
 * https://wiki.sipeed.com/soft/Lichee/zh/Zero-Doc/Drive/GPIO_file.html  
 不需要，因为小志掌机用的是gpio-keys驱动，被/dev/input/event1键盘设备占用  
+* https://github.com/weimingtom/xiaozhi_playground/blob/master/lvgl/lv_port_linux_frame_buffer_xiaozhi_v1.tar.gz
+* framebuffer  
+https://github.com/weimingtom/xiaozhi_playground/blob/master/fb/fvjpeg6b_v4_xiaozhi.tar.gz   
 
 ## dino  
 * wio rp2040, waveshare 2 inch 320x240 st7789, circuitpython:  
