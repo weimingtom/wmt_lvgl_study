@@ -1508,3 +1508,6 @@ lvgl研究，最新lvgl9.4在xubuntu sdl2下的运行效果。好像有改动，
 * https://github.com/weimingtom/wmt_luckfox_study
 * https://spotpear.cn/index/study/detail/id/1308.html
 
+## 魔方派 3 用户手册, LVGL 使用指南
+* https://www.thundercomm.com/rubik-pi-3/cn/docs/rubik-pi-3-user-manual/1.1.2/lvgl-user-guide
+* 
