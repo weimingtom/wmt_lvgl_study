@@ -1512,3 +1512,6 @@ lvgl研究，最新lvgl9.4在xubuntu sdl2下的运行效果。好像有改动，
 * https://www.thundercomm.com/rubik-pi-3/cn/docs/rubik-pi-3-user-manual/1.1.2/lvgl-user-guide
 * https://github.com/rubikpi-ai/lvgl
 * https://github.com/weimingtom/wmt_lvgl_study/blob/master/rubik-pi-3_lvgl-user-guide.txt
+
+## LV9AndroidWatch, for Android  
+* https://github.com/zhuhai-and/LV9AndroidWatch
