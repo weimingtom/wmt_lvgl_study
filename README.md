@@ -1528,3 +1528,23 @@ framebuffer编译运行LVGL-8.2 demo
 结果不行，好像是没有/dev/fb0设备的，
 所以最好用arch代替fedora——不过其实都不怎么好用
 ```
+
+## 全志在线, V853, LVGL 开发实战
+* https://docs.aw-ol.com/docs/old-docs/v853/gui/lvgl_demo_2048
+
+## weibo record
+```
+我计划在昆仑派全部跑通了LVGL demos 5个示例后再发布到gh上或者gitee上。实际上我想跑通更多的示例，
+包括demos的5个示例，examples，旧的示例（例如v7），官网的示例，小安派和omega和BK7256的示例，
+squareline和其他表盘示例，等等很多不胜枚举，不过我可能分阶段整理研究，先把一些成果放在git上
+```
+
+## 小安派的LVGL天气站
+```
+小安派的LVGL天气站（小电视天气），似乎是开源的，基于安信可的BL616无线模块，所以很可能要在Linux下开发
+（工具链应该是risc-v的），软件基于GuiGuider，故可以在Windows下模拟运行，大概效果是这样子
+（当然和86盒差不多，可以点击wifi按钮设置网络）
+```
+* https://docs.ai-thinker.com/aipi-jc/
+* https://gitee.com/imhzy/ai-pi_-hzy_-weather
+* https://bbs.ai-thinker.com/forum.php?mod=viewthread&tid=453
