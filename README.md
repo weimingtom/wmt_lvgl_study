@@ -1532,6 +1532,8 @@ framebuffer编译运行LVGL-8.2 demo
 ## 全志在线, V853, LVGL 开发实战
 * https://docs.aw-ol.com/docs/old-docs/v853/gui/lvgl_demo_2048
 
+## lv_nes扩展软件包.gz, see my pan
+
 ## weibo record
 ```
 我计划在昆仑派全部跑通了LVGL demos 5个示例后再发布到gh上或者gitee上。实际上我想跑通更多的示例，
