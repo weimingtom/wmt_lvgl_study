@@ -1550,3 +1550,23 @@ squareline和其他表盘示例，等等很多不胜枚举，不过我可能分�
 * https://docs.ai-thinker.com/aipi-jc/
 * https://gitee.com/imhzy/ai-pi_-hzy_-weather
 * https://bbs.ai-thinker.com/forum.php?mod=viewthread&tid=453
+
+## arduino 旋转太空人 天气时钟源码来啦 esp8266 太空人表盘下载地址在描述区
+* https://www.bilibili.com/video/BV1FX4y1g7MF/
+* 太空人天气时钟源码及说明.zip
+* https://github.com/chuxin520922/SmallDesktopDisplay  
+* SmallDesktopDisplay
+* weibo record
+```
+2023/4/15
+我把太空人动画和天气时钟的代码大致跑通了，用ESP32运行（有人移植了，我参考其方法）。
+实际上是逐帧动画（包括开机动画和时钟右下角的动画），
+作者大概就是更换这两个动画来出新的产品，开源项目叫SmallDesktopDisplay，
+作者基本上都开源了，不过原版是ESP8266。下一步我看能不能移植到t-watch上，
+以及跑通配网
+
+2021/9/7
+arduino 旋转太空人 天气时钟源码来啦 esp8266 太空人表盘下载地址在描述区#哔哩哔哩动画#
+http://t.cn/A6Ir1mb3arduino 旋转太空人 天气时钟源码来啦 esp8266
+太空人表盘下载地址在描述区 ​​​
+```
