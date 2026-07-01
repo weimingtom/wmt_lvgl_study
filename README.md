@@ -1570,3 +1570,4 @@ arduino 旋转太空人 天气时钟源码来啦 esp8266 太空人表盘下载�
 http://t.cn/A6Ir1mb3arduino 旋转太空人 天气时钟源码来啦 esp8266
 太空人表盘下载地址在描述区 ​​​
 ```
+* SmallDesktopDisplay_v5_twatch2020v3.rar
