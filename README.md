@@ -1575,3 +1575,17 @@ http://t.cn/A6Ir1mb3arduino 旋转太空人 天气时钟源码来啦 esp8266
 ## (TODO) LVGL9AndroidDemo and LV9AndroidWatch
 * https://github.com/zhuhai-and/LVGL9AndroidDemo
 * https://github.com/zhuhai-and/LV9AndroidWatch
+
+## 100ask LVGL nes (from infones) 
+* see also https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/emulator.md  
+* https://gitee.com/weidongshan/lv_lib_100ask/tree/master/src/lv_100ask_nes  
+* https://github.com/100askTeam/lv_lib_100ask/tree/master/src/lv_100ask_nes  
+* https://www.bilibili.com/video/BV1gt4y1L7Aw  
+* https://gitee.com/weidongshan/rpi_pico_100ask_infones  
+* https://gitee.com/weidongshan/esp32_100ask_project/tree/master/lib/nofrendo  
+* https://download.100ask.org/gui/lvgl/100ask_lvgl.html  
+* http://lvgl.100ask.net/  
+* search baidupan, 100ASK_LVGL_DEMO.zip  
+* LVGL NES 模拟器, lv_nes.tar.gz, search my baidupan, lv_nes扩展软件包.gz  
+* (not found, dead) https://www.aw-ol.com/downloads?cat=18  
+* https://docs.aw-ol.com/docs/old-docs/v853/gui/lvgl_nes  
