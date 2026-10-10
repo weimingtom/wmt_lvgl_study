@@ -1590,3 +1590,7 @@ http://t.cn/A6Ir1mb3arduino 旋转太空人 天气时钟源码来啦 esp8266
 * LVGL NES 模拟器, lv_nes.tar.gz, search my baidupan, lv_nes扩展软件包.gz  
 * (not found, dead) https://www.aw-ol.com/downloads?cat=18  
 * https://docs.aw-ol.com/docs/old-docs/v853/gui/lvgl_nes  
+
+## 立创黄山派
+* https://github.com/OpenSiFli/lckfb-hspi-ulp_example/tree/main/lvgl  
+* https://wiki.lckfb.com/zh-hans/hspi-sf32lb52/lckfb-hspi-sf32lb52/lvgl.html
